@@ -17,9 +17,9 @@ StatBot Pro is an autonomous Agentic AI application that acts as a virtual data 
 ## 🚀 Quick Start Guide
 
 ### 1️⃣ Start the AI Backend (FastAPI)
-```bash
-.\.venv\Scripts\python.exe -m uvicorn api:app
 ### 2️⃣ Start the Frontend (Next.js)
 ```bash
+.\.venv\Scripts\python.exe -m uvicorn api:app
+
 cd frontend
 npm run dev
