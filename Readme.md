@@ -19,10 +19,7 @@ StatBot Pro is an autonomous Agentic AI application that acts as a virtual data 
 ### 1️⃣ Start the AI Backend (FastAPI)
 ```bash
 .\.venv\Scripts\python.exe -m uvicorn api:app
-### 🚀 Step 2: Push the fix to GitHub
-Now, run these three quick commands in your terminal to send the README back up to GitHub:
-
+### 2️⃣ Start the Frontend (Next.js)
 ```bash
-git add README.md
-git commit -m "docs: restore professional README"
-git push origin main
+cd frontend
+npm run dev
