@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic
+python-multipart
+pandas
+matplotlib
+langchain-google-genai
+langchain-experimental
