@@ -1,0 +1,1001 @@
+Transaction_ID,Date,Category,Region,Payment_Method,Units_Sold,Unit_Price,Discount,Total_Revenue
+TXN-1000,2025-08-25,Electronics,South,Debit Card,7,209.75,0.2,1174.6
+TXN-1001,2025-02-21,Electronics,North,Apple Pay,3,1077.55,0.0,3232.65
+TXN-1002,2025-05-29,Clothing,North,Apple Pay,4,67.22,0.2,215.1
+TXN-1003,2025-11-17,Electronics,South,Debit Card,3,746.6,0.15,1903.83
+TXN-1004,2025-07-21,Clothing,North,Debit Card,2,118.14,0.15,200.84
+TXN-1005,2025-07-22,Electronics,North,PayPal,6,601.74,0.0,3610.44
+TXN-1006,2025-03-18,Electronics,South,Debit Card,6,268.74,0.05,1531.82
+TXN-1007,2025-11-06,Sports,North,Credit Card,7,69.72,0.0,488.04
+TXN-1008,2025-09-18,Sports,West,Apple Pay,2,213.04,0.15,362.17
+TXN-1009,2025-05-08,Books,East,Credit Card,2,20.98,0.05,39.86
+TXN-1010,2025-09-02,Electronics,South,Credit Card,6,1397.36,0.1,7545.74
+TXN-1011,2025-01-23,Clothing,South,Credit Card,3,72.03,0.05,205.29
+TXN-1012,2025-07-23,Sports,South,Debit Card,2,55.94,0.05,106.29
+TXN-1013,2025-09-29,Clothing,North,PayPal,4,108.57,0.15,369.14
+TXN-1014,2025-07-15,Clothing,East,Credit Card,2,101.21,0.2,161.94
+TXN-1015,2025-10-02,Sports,South,Credit Card,3,175.23,0.0,525.69
+TXN-1016,2025-06-24,Home & Garden,South,Credit Card,5,74.2,0.1,333.9
+TXN-1017,2025-04-01,Sports,East,Debit Card,8,72.84,0.15,495.31
+TXN-1018,2025-09-22,Clothing,North,Debit Card,8,114.89,0.15,781.25
+TXN-1019,2025-02-04,Books,South,Debit Card,2,37.99,0.15,64.58
+TXN-1020,2025-12-12,Books,East,Apple Pay,8,25.74,0.15,175.03
+TXN-1021,2025-01-13,Books,West,Apple Pay,4,43.47,0.0,173.88
+TXN-1022,2025-03-25,Sports,South,Debit Card,6,32.08,0.0,192.48
+TXN-1023,2025-09-13,Books,North,Credit Card,5,38.11,0.2,152.44
+TXN-1024,2025-05-26,Sports,North,Debit Card,7,103.9,0.0,727.3
+TXN-1025,2025-12-18,Books,East,PayPal,3,43.87,0.05,125.03
+TXN-1026,2025-04-13,Home & Garden,West,Apple Pay,5,384.54,0.05,1826.57
+TXN-1027,2025-09-22,Sports,North,Debit Card,6,101.24,0.15,516.32
+TXN-1028,2025-07-29,Books,East,Credit Card,3,28.53,0.1,77.03
+TXN-1029,2025-10-03,Clothing,North,Debit Card,8,17.15,0.05,130.34
+TXN-1030,2025-09-18,Sports,West,Debit Card,5,125.33,0.1,563.99
+TXN-1031,2025-08-31,Books,South,Credit Card,5,19.24,0.1,86.58
+TXN-1032,2025-06-21,Books,West,Apple Pay,2,30.31,0.05,57.59
+TXN-1033,2025-11-24,Sports,West,Apple Pay,4,119.96,0.15,407.86
+TXN-1034,2025-09-25,Electronics,East,PayPal,2,362.72,0.1,652.9
+TXN-1035,2025-09-10,Clothing,North,PayPal,3,44.83,0.05,127.77
+TXN-1036,2025-09-27,Sports,North,Debit Card,3,67.39,0.1,181.95
+TXN-1037,2025-02-04,Clothing,South,Debit Card,3,109.94,0.2,263.86
+TXN-1038,2025-12-06,Books,East,Apple Pay,3,38.21,0.0,114.63
+TXN-1039,2025-06-18,Books,East,Debit Card,4,28.31,0.05,107.58
+TXN-1040,2025-04-30,Electronics,South,PayPal,3,885.67,0.15,2258.46
+TXN-1041,2025-02-25,Clothing,East,PayPal,5,15.32,0.2,61.28
+TXN-1042,2025-07-22,Books,South,Apple Pay,8,22.97,0.2,147.01
+TXN-1043,2025-03-02,Home & Garden,North,Debit Card,1,319.21,0.15,271.33
+TXN-1044,2025-08-06,Sports,East,Credit Card,8,76.47,0.2,489.41
+TXN-1045,2025-07-10,Clothing,North,Apple Pay,4,81.79,0.15,278.09
+TXN-1046,2025-04-20,Clothing,North,PayPal,7,23.7,0.05,157.6
+TXN-1047,2025-09-09,Electronics,East,Apple Pay,5,963.6,0.1,4336.2
+TXN-1048,2025-10-25,Clothing,South,Credit Card,4,52.62,0.2,168.38
+TXN-1049,2025-01-05,Clothing,South,Apple Pay,7,106.42,0.05,707.69
+TXN-1050,2025-07-08,Books,South,Credit Card,8,24.2,0.15,164.56
+TXN-1051,2025-10-01,Electronics,West,Credit Card,5,1160.92,0.2,4643.68
+TXN-1052,2025-10-26,Clothing,West,Debit Card,5,72.03,0.05,342.14
+TXN-1053,2025-05-26,Sports,West,PayPal,7,99.66,0.2,558.1
+TXN-1054,2025-06-14,Clothing,East,PayPal,8,42.53,0.2,272.19
+TXN-1055,2025-07-26,Clothing,North,Debit Card,1,77.27,0.0,77.27
+TXN-1056,2025-06-23,Sports,East,Credit Card,1,45.57,0.1,41.01
+TXN-1057,2025-07-10,Sports,East,Apple Pay,2,68.83,0.0,137.66
+TXN-1058,2025-09-03,Books,West,Apple Pay,3,43.55,0.1,117.58
+TXN-1059,2025-12-15,Clothing,North,Credit Card,1,61.66,0.0,61.66
+TXN-1060,2025-08-27,Books,North,Apple Pay,6,19.34,0.05,110.24
+TXN-1061,2025-03-14,Clothing,West,Apple Pay,4,96.28,0.05,365.86
+TXN-1062,2025-05-19,Clothing,West,PayPal,3,76.47,0.2,183.53
+TXN-1063,2025-01-21,Sports,South,Debit Card,4,167.94,0.0,671.76
+TXN-1064,2025-10-12,Sports,West,Apple Pay,8,140.99,0.15,958.73
+TXN-1065,2025-06-28,Clothing,South,Apple Pay,2,15.62,0.0,31.24
+TXN-1066,2025-09-06,Books,North,Apple Pay,3,44.33,0.15,113.04
+TXN-1067,2025-02-15,Home & Garden,South,PayPal,3,172.85,0.05,492.62
+TXN-1068,2025-06-15,Home & Garden,South,Apple Pay,2,358.41,0.1,645.14
+TXN-1069,2025-05-18,Books,West,Credit Card,5,36.64,0.1,164.88
+TXN-1070,2025-09-10,Electronics,West,Credit Card,1,1155.07,0.0,1155.07
+TXN-1071,2025-10-17,Electronics,West,Credit Card,8,632.75,0.15,4302.7
+TXN-1072,2025-03-28,Electronics,East,Debit Card,4,1260.24,0.1,4536.86
+TXN-1073,2025-08-28,Clothing,South,PayPal,2,103.75,0.0,207.5
+TXN-1074,2025-03-27,Home & Garden,West,PayPal,4,130.03,0.0,520.12
+TXN-1075,2025-05-15,Home & Garden,North,Apple Pay,8,94.43,0.15,642.12
+TXN-1076,2025-09-25,Home & Garden,South,Debit Card,4,243.38,0.0,973.52
+TXN-1077,2025-01-19,Electronics,East,PayPal,1,827.78,0.1,745.0
+TXN-1078,2025-05-29,Books,South,Credit Card,2,23.66,0.15,40.22
+TXN-1079,2025-03-01,Books,East,Credit Card,8,31.04,0.0,248.32
+TXN-1080,2025-07-29,Clothing,South,Debit Card,4,33.19,0.1,119.48
+TXN-1081,2025-07-20,Books,East,PayPal,1,44.81,0.15,38.09
+TXN-1082,2025-07-25,Home & Garden,West,Debit Card,4,389.97,0.2,1247.9
+TXN-1083,2025-10-04,Home & Garden,East,PayPal,7,153.61,0.2,860.22
+TXN-1084,2025-09-04,Electronics,West,Credit Card,1,287.5,0.15,244.38
+TXN-1085,2025-11-01,Sports,South,Credit Card,4,32.75,0.2,104.8
+TXN-1086,2025-10-02,Clothing,South,Credit Card,7,19.41,0.0,135.87
+TXN-1087,2025-02-18,Sports,West,PayPal,8,70.51,0.05,535.88
+TXN-1088,2025-01-21,Sports,North,Apple Pay,8,59.01,0.2,377.66
+TXN-1089,2025-11-05,Books,North,Debit Card,3,37.41,0.05,106.62
+TXN-1090,2025-11-16,Electronics,North,PayPal,8,1098.84,0.05,8351.18
+TXN-1091,2025-10-23,Electronics,South,Credit Card,3,945.15,0.15,2410.13
+TXN-1092,2025-06-04,Home & Garden,East,Apple Pay,3,77.62,0.1,209.57
+TXN-1093,2025-10-20,Home & Garden,North,PayPal,6,73.67,0.2,353.62
+TXN-1094,2025-04-26,Home & Garden,South,PayPal,4,124.28,0.0,497.12
+TXN-1095,2025-06-29,Electronics,North,Credit Card,5,299.16,0.0,1495.8
+TXN-1096,2025-11-03,Sports,North,PayPal,6,70.31,0.1,379.67
+TXN-1097,2025-01-19,Clothing,West,PayPal,6,87.92,0.2,422.02
+TXN-1098,2025-06-15,Clothing,North,Apple Pay,1,56.52,0.2,45.22
+TXN-1099,2025-09-29,Books,East,Apple Pay,1,12.46,0.2,9.97
+TXN-1100,2025-12-19,Home & Garden,South,Credit Card,8,191.24,0.0,1529.92
+TXN-1101,2025-02-14,Books,West,Apple Pay,4,37.71,0.0,150.84
+TXN-1102,2025-07-29,Electronics,West,PayPal,1,866.73,0.15,736.72
+TXN-1103,2025-08-03,Home & Garden,North,PayPal,5,272.77,0.1,1227.46
+TXN-1104,2025-06-14,Electronics,West,PayPal,7,660.68,0.0,4624.76
+TXN-1105,2025-09-24,Sports,South,Credit Card,7,128.07,0.0,896.49
+TXN-1106,2025-10-17,Home & Garden,South,PayPal,8,78.11,0.05,593.64
+TXN-1107,2025-07-21,Home & Garden,West,Debit Card,6,45.66,0.1,246.56
+TXN-1108,2025-10-10,Books,South,Apple Pay,3,13.94,0.05,39.73
+TXN-1109,2025-10-15,Sports,South,Credit Card,2,196.22,0.15,333.57
+TXN-1110,2025-10-04,Sports,South,Debit Card,3,110.9,0.15,282.8
+TXN-1111,2025-04-18,Clothing,North,Apple Pay,8,16.55,0.1,119.16
+TXN-1112,2025-03-31,Sports,North,PayPal,6,112.48,0.15,573.65
+TXN-1113,2025-06-11,Clothing,South,Apple Pay,3,68.05,0.0,204.15
+TXN-1114,2025-03-11,Home & Garden,North,Apple Pay,3,212.91,0.05,606.79
+TXN-1115,2025-02-16,Clothing,East,Debit Card,3,31.13,0.2,74.71
+TXN-1116,2025-10-08,Clothing,South,Credit Card,7,42.05,0.15,250.2
+TXN-1117,2025-11-23,Sports,North,Debit Card,3,218.44,0.15,557.02
+TXN-1118,2025-08-02,Electronics,East,Apple Pay,2,1210.72,0.0,2421.44
+TXN-1119,2025-02-01,Books,East,Apple Pay,7,40.07,0.15,238.42
+TXN-1120,2025-10-12,Books,South,Debit Card,6,10.28,0.05,58.6
+TXN-1121,2025-03-11,Home & Garden,West,Credit Card,6,258.52,0.15,1318.45
+TXN-1122,2025-08-21,Electronics,North,Credit Card,6,289.56,0.05,1650.49
+TXN-1123,2025-07-14,Sports,West,Credit Card,4,59.97,0.05,227.89
+TXN-1124,2025-07-12,Clothing,South,Apple Pay,8,75.47,0.2,483.01
+TXN-1125,2025-08-07,Home & Garden,East,PayPal,1,273.14,0.0,273.14
+TXN-1126,2025-12-13,Clothing,South,Debit Card,3,109.6,0.0,328.8
+TXN-1127,2025-10-06,Clothing,North,PayPal,2,30.61,0.0,61.22
+TXN-1128,2025-07-20,Electronics,North,Apple Pay,2,777.45,0.15,1321.66
+TXN-1129,2025-08-01,Clothing,East,Credit Card,6,31.26,0.0,187.56
+TXN-1130,2025-04-10,Sports,North,Apple Pay,3,49.59,0.05,141.33
+TXN-1131,2025-05-19,Home & Garden,East,Apple Pay,1,139.95,0.05,132.95
+TXN-1132,2025-03-16,Electronics,East,Apple Pay,1,1381.21,0.1,1243.09
+TXN-1133,2025-09-29,Books,West,Apple Pay,4,44.14,0.15,150.08
+TXN-1134,2025-01-19,Clothing,East,Debit Card,3,108.49,0.1,292.92
+TXN-1135,2025-04-20,Sports,North,Credit Card,6,228.41,0.15,1164.89
+TXN-1136,2025-05-18,Home & Garden,South,Debit Card,7,151.89,0.2,850.58
+TXN-1137,2025-06-01,Books,North,PayPal,5,13.9,0.2,55.6
+TXN-1138,2025-03-17,Electronics,East,Apple Pay,3,378.61,0.2,908.66
+TXN-1139,2025-08-08,Sports,East,Credit Card,7,71.52,0.15,425.54
+TXN-1140,2025-10-03,Sports,West,Debit Card,6,151.07,0.0,906.42
+TXN-1141,2025-03-11,Sports,North,Credit Card,7,157.91,0.0,1105.37
+TXN-1142,2025-10-10,Books,East,Apple Pay,8,42.94,0.05,326.34
+TXN-1143,2025-05-26,Sports,East,Debit Card,7,161.12,0.1,1015.06
+TXN-1144,2025-11-25,Electronics,South,Debit Card,7,976.6,0.15,5810.77
+TXN-1145,2025-03-15,Sports,West,PayPal,2,72.54,0.2,116.06
+TXN-1146,2025-06-25,Home & Garden,South,Apple Pay,8,67.15,0.05,510.34
+TXN-1147,2025-01-14,Books,East,PayPal,2,27.47,0.1,49.45
+TXN-1148,2025-03-23,Home & Garden,South,Apple Pay,3,140.17,0.2,336.41
+TXN-1149,2025-01-31,Electronics,East,Credit Card,5,604.87,0.1,2721.91
+TXN-1150,2025-01-17,Home & Garden,South,PayPal,6,125.95,0.1,680.13
+TXN-1151,2025-09-10,Clothing,East,Debit Card,4,51.37,0.2,164.38
+TXN-1152,2025-01-16,Sports,West,Debit Card,1,71.06,0.05,67.51
+TXN-1153,2025-07-06,Electronics,East,Apple Pay,4,232.28,0.1,836.21
+TXN-1154,2025-07-08,Home & Garden,East,Debit Card,6,34.55,0.05,196.93
+TXN-1155,2025-08-28,Clothing,South,PayPal,6,75.54,0.15,385.25
+TXN-1156,2025-10-09,Home & Garden,South,Credit Card,8,256.32,0.05,1948.03
+TXN-1157,2025-06-19,Clothing,East,Debit Card,1,108.01,0.15,91.81
+TXN-1158,2025-11-19,Books,North,PayPal,7,23.29,0.1,146.73
+TXN-1159,2025-03-13,Sports,West,Credit Card,8,232.63,0.15,1581.88
+TXN-1160,2025-12-09,Clothing,West,Apple Pay,2,71.24,0.15,121.11
+TXN-1161,2025-05-24,Electronics,East,Debit Card,7,991.25,0.0,6938.75
+TXN-1162,2025-07-04,Home & Garden,South,Credit Card,6,233.55,0.0,1401.3
+TXN-1163,2025-07-01,Sports,South,Apple Pay,4,154.8,0.15,526.32
+TXN-1164,2025-11-06,Sports,South,PayPal,4,193.33,0.0,773.32
+TXN-1165,2025-03-28,Clothing,East,PayPal,1,27.71,0.15,23.55
+TXN-1166,2025-07-03,Books,North,Apple Pay,4,37.27,0.0,149.08
+TXN-1167,2025-02-21,Sports,East,Debit Card,6,158.56,0.15,808.66
+TXN-1168,2025-08-23,Books,North,PayPal,7,24.64,0.0,172.48
+TXN-1169,2025-07-04,Sports,North,Credit Card,3,235.48,0.05,671.12
+TXN-1170,2025-08-09,Books,West,Apple Pay,6,33.55,0.2,161.04
+TXN-1171,2025-07-06,Books,South,PayPal,7,24.85,0.15,147.86
+TXN-1172,2025-10-01,Sports,East,Debit Card,3,139.96,0.2,335.9
+TXN-1173,2025-09-19,Clothing,West,PayPal,8,84.38,0.0,675.04
+TXN-1174,2025-01-09,Home & Garden,South,Credit Card,3,105.7,0.2,253.68
+TXN-1175,2025-11-13,Electronics,West,PayPal,2,1180.38,0.15,2006.65
+TXN-1176,2025-05-05,Sports,East,Debit Card,5,213.81,0.2,855.24
+TXN-1177,2025-05-02,Electronics,North,Debit Card,7,659.32,0.05,4384.48
+TXN-1178,2025-07-16,Electronics,North,PayPal,1,567.96,0.2,454.37
+TXN-1179,2025-11-02,Clothing,South,Apple Pay,7,99.13,0.0,693.91
+TXN-1180,2025-11-16,Books,West,Apple Pay,7,20.44,0.1,128.77
+TXN-1181,2025-11-12,Clothing,West,Debit Card,7,63.99,0.05,425.53
+TXN-1182,2025-04-27,Clothing,North,Credit Card,4,41.41,0.15,140.79
+TXN-1183,2025-01-28,Clothing,West,Apple Pay,3,83.55,0.15,213.05
+TXN-1184,2025-02-01,Books,East,Debit Card,7,10.78,0.05,71.69
+TXN-1185,2025-11-02,Home & Garden,West,PayPal,7,381.62,0.0,2671.34
+TXN-1186,2025-03-20,Books,South,Apple Pay,8,42.67,0.05,324.29
+TXN-1187,2025-04-28,Electronics,South,Apple Pay,1,525.79,0.0,525.79
+TXN-1188,2025-07-03,Sports,North,Debit Card,8,119.26,0.05,906.38
+TXN-1189,2025-04-04,Clothing,West,Credit Card,4,41.14,0.2,131.65
+TXN-1190,2025-03-07,Sports,North,Credit Card,1,149.98,0.2,119.98
+TXN-1191,2025-01-08,Clothing,East,PayPal,2,116.38,0.05,221.12
+TXN-1192,2025-06-05,Clothing,North,Debit Card,4,66.19,0.0,264.76
+TXN-1193,2025-06-24,Books,South,Apple Pay,3,41.25,0.0,123.75
+TXN-1194,2025-12-20,Clothing,South,Credit Card,1,60.68,0.15,51.58
+TXN-1195,2025-03-22,Home & Garden,West,Debit Card,6,137.42,0.2,659.62
+TXN-1196,2025-06-26,Sports,South,PayPal,3,190.23,0.05,542.16
+TXN-1197,2025-04-29,Electronics,North,Debit Card,4,255.64,0.1,920.3
+TXN-1198,2025-09-05,Clothing,West,PayPal,6,35.66,0.2,171.17
+TXN-1199,2025-01-16,Books,South,Credit Card,7,18.23,0.05,121.23
+TXN-1200,2025-01-17,Electronics,East,PayPal,4,923.05,0.05,3507.59
+TXN-1201,2025-06-07,Sports,East,Credit Card,4,123.64,0.2,395.65
+TXN-1202,2025-09-23,Clothing,North,PayPal,3,57.43,0.05,163.68
+TXN-1203,2025-07-08,Books,South,Apple Pay,5,32.99,0.0,164.95
+TXN-1204,2025-10-23,Electronics,East,Apple Pay,5,1350.66,0.0,6753.3
+TXN-1205,2025-12-30,Sports,East,Credit Card,2,60.11,0.15,102.19
+TXN-1206,2025-10-20,Electronics,South,Credit Card,2,433.18,0.1,779.72
+TXN-1207,2025-12-20,Sports,South,Credit Card,1,126.14,0.0,126.14
+TXN-1208,2025-05-13,Electronics,West,Debit Card,4,858.09,0.1,3089.12
+TXN-1209,2025-01-25,Books,North,Debit Card,1,15.54,0.05,14.76
+TXN-1210,2025-08-09,Clothing,North,Credit Card,6,27.0,0.1,145.8
+TXN-1211,2025-11-09,Electronics,West,Credit Card,8,600.05,0.05,4560.38
+TXN-1212,2025-11-05,Books,North,Credit Card,1,22.25,0.05,21.14
+TXN-1213,2025-06-27,Electronics,West,PayPal,6,994.86,0.1,5372.24
+TXN-1214,2025-12-02,Sports,South,Credit Card,1,197.24,0.2,157.79
+TXN-1215,2025-02-12,Books,South,Credit Card,4,26.04,0.15,88.54
+TXN-1216,2025-09-30,Electronics,North,Debit Card,1,440.34,0.15,374.29
+TXN-1217,2025-11-02,Sports,North,Credit Card,1,218.71,0.05,207.77
+TXN-1218,2025-10-17,Sports,North,Debit Card,3,40.5,0.15,103.27
+TXN-1219,2025-11-12,Sports,South,Credit Card,5,189.95,0.1,854.77
+TXN-1220,2025-10-16,Clothing,North,Apple Pay,6,94.47,0.05,538.48
+TXN-1221,2025-02-20,Electronics,North,Apple Pay,2,1433.71,0.2,2293.94
+TXN-1222,2025-03-08,Home & Garden,West,Apple Pay,3,77.32,0.15,197.17
+TXN-1223,2025-03-02,Clothing,North,Apple Pay,6,61.89,0.15,315.64
+TXN-1224,2025-09-15,Clothing,West,Debit Card,1,51.72,0.2,41.38
+TXN-1225,2025-04-14,Books,South,Apple Pay,2,22.92,0.05,43.55
+TXN-1226,2025-11-28,Electronics,South,Credit Card,8,1211.72,0.1,8724.38
+TXN-1227,2025-08-17,Clothing,North,PayPal,3,53.65,0.1,144.85
+TXN-1228,2025-07-18,Books,South,PayPal,7,13.84,0.05,92.04
+TXN-1229,2025-06-13,Sports,East,Debit Card,5,200.07,0.1,900.31
+TXN-1230,2025-02-18,Electronics,West,Apple Pay,6,1252.24,0.15,6386.42
+TXN-1231,2025-02-21,Books,East,Apple Pay,7,13.02,0.2,72.91
+TXN-1232,2025-10-04,Books,West,Credit Card,6,21.2,0.0,127.2
+TXN-1233,2025-04-25,Electronics,East,Apple Pay,1,958.23,0.2,766.58
+TXN-1234,2025-03-16,Books,North,Credit Card,7,12.83,0.2,71.85
+TXN-1235,2025-03-21,Sports,West,Debit Card,2,53.59,0.1,96.46
+TXN-1236,2025-07-20,Home & Garden,South,Debit Card,1,277.85,0.2,222.28
+TXN-1237,2025-03-21,Books,West,Apple Pay,8,42.91,0.1,308.95
+TXN-1238,2025-09-10,Books,West,Apple Pay,2,38.23,0.15,64.99
+TXN-1239,2025-02-11,Home & Garden,South,Credit Card,1,110.59,0.1,99.53
+TXN-1240,2025-04-01,Clothing,East,Apple Pay,2,25.54,0.1,45.97
+TXN-1241,2025-08-07,Books,South,Credit Card,7,25.97,0.0,181.79
+TXN-1242,2025-09-22,Electronics,East,Credit Card,6,1405.77,0.2,6747.7
+TXN-1243,2025-09-16,Clothing,South,Debit Card,5,35.86,0.1,161.37
+TXN-1244,2025-02-23,Sports,West,Apple Pay,1,240.54,0.0,240.54
+TXN-1245,2025-12-05,Books,East,Credit Card,3,24.99,0.15,63.72
+TXN-1246,2025-09-27,Sports,East,Debit Card,5,146.4,0.2,585.6
+TXN-1247,2025-03-27,Electronics,West,Debit Card,3,671.97,0.1,1814.32
+TXN-1248,2025-07-31,Clothing,West,Apple Pay,1,63.02,0.0,63.02
+TXN-1249,2025-04-12,Electronics,North,PayPal,7,645.83,0.1,4068.73
+TXN-1250,2025-12-14,Clothing,South,Credit Card,5,16.28,0.0,81.4
+TXN-1251,2025-09-30,Clothing,South,Credit Card,5,40.86,0.05,194.09
+TXN-1252,2025-02-19,Books,South,Debit Card,5,19.67,0.1,88.52
+TXN-1253,2025-10-16,Electronics,West,Credit Card,7,872.14,0.15,5189.23
+TXN-1254,2025-08-06,Home & Garden,West,Apple Pay,4,385.85,0.0,1543.4
+TXN-1255,2025-07-07,Electronics,North,PayPal,6,260.26,0.0,1561.56
+TXN-1256,2025-06-24,Electronics,South,Apple Pay,3,395.49,0.15,1008.5
+TXN-1257,2025-08-07,Books,East,Credit Card,2,41.87,0.0,83.74
+TXN-1258,2025-01-30,Home & Garden,East,Debit Card,6,258.22,0.0,1549.32
+TXN-1259,2025-04-16,Home & Garden,East,PayPal,5,219.51,0.0,1097.55
+TXN-1260,2025-12-15,Books,North,Credit Card,1,37.3,0.15,31.7
+TXN-1261,2025-02-25,Electronics,North,PayPal,5,435.03,0.2,1740.12
+TXN-1262,2025-07-25,Home & Garden,East,Credit Card,8,194.13,0.1,1397.74
+TXN-1263,2025-02-22,Sports,North,Apple Pay,2,247.39,0.1,445.3
+TXN-1264,2025-06-24,Sports,South,Apple Pay,2,95.85,0.1,172.53
+TXN-1265,2025-04-09,Clothing,East,Debit Card,1,16.69,0.2,13.35
+TXN-1266,2025-08-31,Sports,North,Debit Card,3,219.65,0.2,527.16
+TXN-1267,2025-10-27,Electronics,North,PayPal,3,902.8,0.1,2437.56
+TXN-1268,2025-01-25,Sports,West,PayPal,1,244.28,0.05,232.07
+TXN-1269,2025-07-12,Clothing,South,Credit Card,2,41.26,0.05,78.39
+TXN-1270,2025-07-15,Sports,West,Debit Card,2,204.76,0.2,327.62
+TXN-1271,2025-09-18,Electronics,South,PayPal,4,227.21,0.1,817.96
+TXN-1272,2025-01-13,Electronics,South,PayPal,1,380.49,0.1,342.44
+TXN-1273,2025-03-24,Sports,East,PayPal,6,90.6,0.0,543.6
+TXN-1274,2025-04-14,Home & Garden,South,PayPal,7,36.15,0.05,240.4
+TXN-1275,2025-11-20,Electronics,North,Debit Card,6,801.57,0.2,3847.54
+TXN-1276,2025-08-07,Home & Garden,North,Apple Pay,1,199.82,0.15,169.85
+TXN-1277,2025-04-22,Sports,South,PayPal,4,227.41,0.0,909.64
+TXN-1278,2025-12-21,Books,North,Debit Card,1,31.27,0.2,25.02
+TXN-1279,2025-10-26,Electronics,North,Debit Card,2,1240.3,0.05,2356.57
+TXN-1280,2025-10-14,Clothing,South,Apple Pay,1,69.08,0.15,58.72
+TXN-1281,2025-12-22,Books,North,Credit Card,4,26.94,0.1,96.98
+TXN-1282,2025-12-17,Home & Garden,South,Apple Pay,4,345.15,0.05,1311.57
+TXN-1283,2025-07-27,Clothing,South,Apple Pay,8,112.86,0.15,767.45
+TXN-1284,2025-04-30,Clothing,North,Apple Pay,1,44.66,0.05,42.43
+TXN-1285,2025-01-27,Home & Garden,North,PayPal,2,307.36,0.1,553.25
+TXN-1286,2025-05-24,Home & Garden,East,Credit Card,8,74.8,0.2,478.72
+TXN-1287,2025-08-26,Clothing,South,Credit Card,2,57.63,0.0,115.26
+TXN-1288,2025-12-03,Clothing,East,Debit Card,3,45.46,0.2,109.1
+TXN-1289,2025-08-23,Books,North,Credit Card,4,16.58,0.1,59.69
+TXN-1290,2025-05-05,Home & Garden,North,Debit Card,8,86.82,0.15,590.38
+TXN-1291,2025-03-23,Electronics,East,PayPal,8,984.49,0.2,6300.74
+TXN-1292,2025-12-26,Sports,South,PayPal,4,238.12,0.05,904.86
+TXN-1293,2025-04-23,Home & Garden,North,PayPal,4,346.14,0.15,1176.88
+TXN-1294,2025-03-22,Electronics,East,Apple Pay,8,555.13,0.05,4218.99
+TXN-1295,2025-11-21,Books,South,Credit Card,2,37.79,0.2,60.46
+TXN-1296,2025-08-22,Sports,East,Apple Pay,3,122.56,0.05,349.3
+TXN-1297,2025-12-22,Books,North,PayPal,8,16.8,0.1,120.96
+TXN-1298,2025-05-19,Electronics,North,Debit Card,3,990.39,0.05,2822.61
+TXN-1299,2025-11-12,Books,North,Debit Card,7,42.25,0.05,280.96
+TXN-1300,2025-12-22,Clothing,East,Credit Card,5,63.34,0.0,316.7
+TXN-1301,2025-01-14,Home & Garden,East,Credit Card,7,303.28,0.1,1910.66
+TXN-1302,2025-05-29,Books,North,Apple Pay,8,24.29,0.05,184.6
+TXN-1303,2025-10-05,Sports,East,Credit Card,8,211.77,0.05,1609.45
+TXN-1304,2025-06-12,Books,South,Debit Card,8,34.77,0.0,278.16
+TXN-1305,2025-06-26,Electronics,East,Credit Card,1,404.05,0.0,404.05
+TXN-1306,2025-01-21,Clothing,West,PayPal,6,107.14,0.05,610.7
+TXN-1307,2025-05-11,Clothing,North,Apple Pay,4,24.09,0.05,91.54
+TXN-1308,2025-08-10,Books,North,Credit Card,5,39.55,0.15,168.09
+TXN-1309,2025-11-07,Sports,West,Debit Card,3,82.13,0.2,197.11
+TXN-1310,2025-05-27,Home & Garden,West,Apple Pay,5,344.4,0.0,1722.0
+TXN-1311,2025-06-16,Clothing,East,Debit Card,7,72.65,0.15,432.27
+TXN-1312,2025-05-18,Home & Garden,North,Credit Card,8,317.53,0.15,2159.2
+TXN-1313,2025-05-22,Sports,West,PayPal,8,191.04,0.15,1299.07
+TXN-1314,2025-11-27,Books,South,PayPal,5,24.65,0.2,98.6
+TXN-1315,2025-08-08,Books,North,Apple Pay,4,18.88,0.2,60.42
+TXN-1316,2025-09-18,Home & Garden,South,Apple Pay,1,304.6,0.1,274.14
+TXN-1317,2025-04-03,Electronics,West,Debit Card,8,1109.3,0.15,7543.24
+TXN-1318,2025-10-19,Home & Garden,West,Apple Pay,6,167.52,0.15,854.35
+TXN-1319,2025-05-01,Books,South,Apple Pay,4,43.1,0.2,137.92
+TXN-1320,2025-05-26,Books,East,Credit Card,6,26.14,0.15,133.31
+TXN-1321,2025-08-23,Sports,West,PayPal,8,71.14,0.15,483.75
+TXN-1322,2025-10-21,Sports,North,Apple Pay,3,185.04,0.1,499.61
+TXN-1323,2025-10-01,Electronics,North,Debit Card,2,807.85,0.05,1534.91
+TXN-1324,2025-04-18,Books,South,Apple Pay,2,43.48,0.2,69.57
+TXN-1325,2025-10-16,Books,South,Debit Card,3,14.63,0.15,37.31
+TXN-1326,2025-04-19,Books,North,Debit Card,1,20.6,0.0,20.6
+TXN-1327,2025-11-13,Home & Garden,West,Debit Card,5,236.59,0.0,1182.95
+TXN-1328,2025-06-22,Clothing,South,Debit Card,2,111.56,0.0,223.12
+TXN-1329,2025-07-15,Electronics,West,Apple Pay,3,640.06,0.0,1920.18
+TXN-1330,2025-06-02,Sports,East,Debit Card,2,143.98,0.2,230.37
+TXN-1331,2025-12-29,Sports,North,Debit Card,4,74.59,0.2,238.69
+TXN-1332,2025-04-30,Books,South,Credit Card,6,33.93,0.2,162.86
+TXN-1333,2025-03-07,Clothing,South,Apple Pay,8,76.19,0.05,579.04
+TXN-1334,2025-11-21,Home & Garden,North,PayPal,1,103.71,0.1,93.34
+TXN-1335,2025-10-29,Home & Garden,East,Apple Pay,1,84.81,0.2,67.85
+TXN-1336,2025-10-05,Books,North,Credit Card,1,41.93,0.2,33.54
+TXN-1337,2025-07-16,Books,South,Debit Card,2,41.94,0.15,71.3
+TXN-1338,2025-04-28,Sports,North,Debit Card,4,102.08,0.05,387.9
+TXN-1339,2025-07-15,Home & Garden,North,PayPal,5,57.78,0.05,274.45
+TXN-1340,2025-04-13,Home & Garden,West,Credit Card,3,51.86,0.0,155.58
+TXN-1341,2025-09-15,Electronics,South,Credit Card,7,1393.61,0.15,8291.98
+TXN-1342,2025-07-17,Electronics,East,PayPal,4,725.18,0.15,2465.61
+TXN-1343,2025-04-18,Books,East,PayPal,5,31.1,0.2,124.4
+TXN-1344,2025-02-07,Sports,East,PayPal,7,109.35,0.0,765.45
+TXN-1345,2025-07-20,Electronics,East,Credit Card,7,818.31,0.1,5155.35
+TXN-1346,2025-09-23,Sports,South,Debit Card,2,188.43,0.0,376.86
+TXN-1347,2025-08-20,Sports,North,Credit Card,1,81.18,0.0,81.18
+TXN-1348,2025-05-02,Books,East,PayPal,5,42.86,0.05,203.59
+TXN-1349,2025-05-01,Home & Garden,West,Credit Card,3,205.53,0.2,493.27
+TXN-1350,2025-05-08,Clothing,West,PayPal,4,43.64,0.1,157.1
+TXN-1351,2025-12-08,Electronics,North,Debit Card,2,781.91,0.1,1407.44
+TXN-1352,2025-05-12,Electronics,North,Apple Pay,6,348.56,0.2,1673.09
+TXN-1353,2025-07-15,Clothing,West,Apple Pay,3,100.25,0.0,300.75
+TXN-1354,2025-07-18,Clothing,East,PayPal,1,103.9,0.0,103.9
+TXN-1355,2025-04-17,Clothing,North,PayPal,2,46.3,0.0,92.6
+TXN-1356,2025-09-20,Home & Garden,North,Debit Card,6,91.05,0.15,464.35
+TXN-1357,2025-08-30,Clothing,East,Apple Pay,7,84.4,0.15,502.18
+TXN-1358,2025-03-29,Home & Garden,East,Debit Card,6,96.2,0.1,519.48
+TXN-1359,2025-12-09,Sports,North,Debit Card,1,234.25,0.2,187.4
+TXN-1360,2025-07-25,Clothing,West,Apple Pay,6,51.12,0.0,306.72
+TXN-1361,2025-03-10,Home & Garden,South,PayPal,7,56.18,0.2,314.61
+TXN-1362,2025-01-30,Clothing,South,PayPal,3,62.88,0.15,160.34
+TXN-1363,2025-08-01,Books,East,Debit Card,4,15.9,0.15,54.06
+TXN-1364,2025-09-08,Sports,South,Credit Card,1,185.17,0.2,148.14
+TXN-1365,2025-02-14,Home & Garden,South,Credit Card,8,30.03,0.1,216.22
+TXN-1366,2025-09-08,Home & Garden,West,Debit Card,1,89.15,0.05,84.69
+TXN-1367,2025-08-03,Books,North,Debit Card,7,13.44,0.1,84.67
+TXN-1368,2025-08-18,Sports,West,Debit Card,5,225.21,0.05,1069.75
+TXN-1369,2025-11-07,Books,West,Credit Card,1,44.7,0.0,44.7
+TXN-1370,2025-05-25,Sports,South,Credit Card,1,66.4,0.1,59.76
+TXN-1371,2025-12-22,Clothing,East,PayPal,4,37.53,0.0,150.12
+TXN-1372,2025-07-21,Electronics,East,Credit Card,7,859.31,0.0,6015.17
+TXN-1373,2025-05-30,Books,North,PayPal,6,16.85,0.1,90.99
+TXN-1374,2025-12-22,Electronics,North,Credit Card,5,1404.21,0.0,7021.05
+TXN-1375,2025-06-02,Electronics,East,Apple Pay,4,1128.83,0.0,4515.32
+TXN-1376,2025-08-22,Clothing,East,Apple Pay,5,76.33,0.05,362.57
+TXN-1377,2025-12-16,Home & Garden,East,Debit Card,8,251.93,0.2,1612.35
+TXN-1378,2025-02-07,Home & Garden,East,Debit Card,2,232.85,0.0,465.7
+TXN-1379,2025-09-26,Electronics,East,Debit Card,8,871.25,0.1,6273.0
+TXN-1380,2025-12-10,Sports,West,PayPal,2,242.53,0.2,388.05
+TXN-1381,2025-07-02,Books,East,Apple Pay,4,14.47,0.1,52.09
+TXN-1382,2025-04-05,Books,South,Debit Card,6,41.8,0.2,200.64
+TXN-1383,2025-09-27,Books,East,PayPal,8,12.41,0.2,79.42
+TXN-1384,2025-03-24,Sports,East,Credit Card,2,166.17,0.0,332.34
+TXN-1385,2025-02-19,Home & Garden,North,Apple Pay,6,304.27,0.2,1460.5
+TXN-1386,2025-02-15,Sports,South,PayPal,2,91.07,0.1,163.93
+TXN-1387,2025-06-13,Clothing,North,Credit Card,6,79.8,0.15,406.98
+TXN-1388,2025-09-24,Clothing,East,Credit Card,1,101.09,0.05,96.04
+TXN-1389,2025-05-29,Electronics,South,Apple Pay,2,560.58,0.0,1121.16
+TXN-1390,2025-11-01,Sports,North,Debit Card,6,205.7,0.1,1110.78
+TXN-1391,2025-03-18,Electronics,South,Apple Pay,1,778.36,0.05,739.44
+TXN-1392,2025-03-08,Sports,East,Apple Pay,5,159.29,0.05,756.63
+TXN-1393,2025-08-13,Clothing,North,Credit Card,1,82.03,0.2,65.62
+TXN-1394,2025-01-28,Sports,East,Apple Pay,5,117.55,0.2,470.2
+TXN-1395,2025-01-20,Home & Garden,South,PayPal,4,246.46,0.2,788.67
+TXN-1396,2025-01-20,Sports,North,PayPal,2,245.44,0.0,490.88
+TXN-1397,2025-02-02,Clothing,South,Debit Card,6,112.08,0.15,571.61
+TXN-1398,2025-10-15,Home & Garden,South,Credit Card,2,286.73,0.05,544.79
+TXN-1399,2025-10-24,Clothing,West,Debit Card,5,51.91,0.1,233.59
+TXN-1400,2025-12-02,Home & Garden,South,Apple Pay,4,42.63,0.0,170.52
+TXN-1401,2025-01-07,Electronics,West,Credit Card,4,386.13,0.1,1390.07
+TXN-1402,2025-11-18,Sports,South,Apple Pay,2,32.66,0.0,65.32
+TXN-1403,2025-07-24,Clothing,West,Credit Card,5,28.16,0.0,140.8
+TXN-1404,2025-08-10,Electronics,South,PayPal,7,1102.18,0.1,6943.73
+TXN-1405,2025-01-04,Books,West,Credit Card,1,22.28,0.1,20.05
+TXN-1406,2025-05-28,Electronics,West,Debit Card,8,1495.0,0.0,11960.0
+TXN-1407,2025-07-13,Clothing,East,Apple Pay,5,43.64,0.15,185.47
+TXN-1408,2025-07-20,Clothing,East,PayPal,3,96.05,0.2,230.52
+TXN-1409,2025-09-13,Electronics,South,Debit Card,1,827.19,0.05,785.83
+TXN-1410,2025-04-17,Books,East,Apple Pay,2,22.64,0.0,45.28
+TXN-1411,2025-08-15,Electronics,South,Debit Card,1,1080.18,0.0,1080.18
+TXN-1412,2025-02-16,Clothing,West,Credit Card,7,109.57,0.0,766.99
+TXN-1413,2025-07-31,Electronics,North,Credit Card,7,1024.95,0.05,6815.92
+TXN-1414,2025-02-27,Books,West,PayPal,5,41.2,0.15,175.1
+TXN-1415,2025-12-28,Home & Garden,North,PayPal,5,233.31,0.15,991.57
+TXN-1416,2025-08-27,Sports,West,Apple Pay,6,123.77,0.0,742.62
+TXN-1417,2025-09-06,Sports,West,Apple Pay,7,140.41,0.0,982.87
+TXN-1418,2025-04-13,Clothing,West,Credit Card,1,29.61,0.1,26.65
+TXN-1419,2025-11-03,Sports,East,Credit Card,7,230.52,0.1,1452.28
+TXN-1420,2025-11-14,Home & Garden,West,PayPal,8,359.04,0.0,2872.32
+TXN-1421,2025-01-08,Clothing,East,Debit Card,1,92.73,0.1,83.46
+TXN-1422,2025-05-22,Clothing,West,Credit Card,5,75.61,0.1,340.25
+TXN-1423,2025-07-13,Sports,North,Apple Pay,4,60.36,0.0,241.44
+TXN-1424,2025-02-13,Home & Garden,West,Debit Card,7,184.75,0.15,1099.26
+TXN-1425,2025-12-15,Books,North,Credit Card,8,17.38,0.0,139.04
+TXN-1426,2025-08-06,Clothing,West,Debit Card,4,22.89,0.2,73.25
+TXN-1427,2025-06-23,Clothing,East,Apple Pay,3,114.36,0.1,308.77
+TXN-1428,2025-04-04,Electronics,South,Credit Card,7,367.94,0.0,2575.58
+TXN-1429,2025-05-29,Clothing,West,Apple Pay,4,116.24,0.15,395.22
+TXN-1430,2025-09-06,Sports,South,Credit Card,2,137.59,0.15,233.9
+TXN-1431,2025-06-17,Sports,East,PayPal,2,176.81,0.15,300.58
+TXN-1432,2025-04-20,Electronics,East,PayPal,8,1430.58,0.15,9727.94
+TXN-1433,2025-01-25,Books,East,Debit Card,3,38.53,0.0,115.59
+TXN-1434,2025-03-05,Books,South,Apple Pay,2,40.13,0.2,64.21
+TXN-1435,2025-11-22,Sports,East,PayPal,4,117.19,0.1,421.88
+TXN-1436,2025-03-04,Sports,West,Credit Card,6,187.31,0.15,955.28
+TXN-1437,2025-03-08,Books,West,Debit Card,8,44.21,0.1,318.31
+TXN-1438,2025-02-16,Clothing,South,Apple Pay,8,19.19,0.0,153.52
+TXN-1439,2025-01-16,Sports,South,Debit Card,4,57.18,0.1,205.85
+TXN-1440,2025-10-07,Electronics,East,PayPal,2,1244.5,0.0,2489.0
+TXN-1441,2025-03-31,Sports,North,Apple Pay,6,53.41,0.1,288.41
+TXN-1442,2025-06-20,Sports,East,Apple Pay,5,95.1,0.0,475.5
+TXN-1443,2025-07-15,Electronics,West,Credit Card,4,1024.52,0.2,3278.46
+TXN-1444,2025-05-13,Books,East,Apple Pay,5,26.63,0.0,133.15
+TXN-1445,2025-08-19,Home & Garden,South,Credit Card,5,52.57,0.05,249.71
+TXN-1446,2025-07-22,Books,North,PayPal,8,36.86,0.0,294.88
+TXN-1447,2025-06-07,Electronics,South,PayPal,7,1222.38,0.2,6845.33
+TXN-1448,2025-11-22,Books,East,Debit Card,3,44.38,0.15,113.17
+TXN-1449,2025-01-01,Clothing,East,Debit Card,2,66.47,0.2,106.35
+TXN-1450,2025-08-09,Books,North,Debit Card,1,31.15,0.0,31.15
+TXN-1451,2025-10-29,Electronics,East,Apple Pay,2,1073.35,0.2,1717.36
+TXN-1452,2025-11-15,Books,South,Apple Pay,8,16.81,0.15,114.31
+TXN-1453,2025-01-23,Home & Garden,North,Apple Pay,3,305.51,0.1,824.88
+TXN-1454,2025-01-07,Electronics,South,Debit Card,3,374.3,0.2,898.32
+TXN-1455,2025-05-04,Clothing,West,Debit Card,6,29.54,0.2,141.79
+TXN-1456,2025-05-26,Clothing,West,PayPal,5,73.31,0.2,293.24
+TXN-1457,2025-01-16,Books,South,Debit Card,1,34.47,0.0,34.47
+TXN-1458,2025-01-27,Clothing,South,Debit Card,6,98.02,0.15,499.9
+TXN-1459,2025-11-10,Home & Garden,North,Apple Pay,1,274.44,0.0,274.44
+TXN-1460,2025-02-09,Books,North,PayPal,6,10.64,0.1,57.46
+TXN-1461,2025-03-11,Clothing,North,Credit Card,5,85.92,0.1,386.64
+TXN-1462,2025-05-21,Home & Garden,West,Debit Card,4,306.8,0.2,981.76
+TXN-1463,2025-11-23,Electronics,West,Debit Card,1,656.43,0.2,525.14
+TXN-1464,2025-09-30,Electronics,West,Debit Card,5,1360.15,0.0,6800.75
+TXN-1465,2025-01-13,Books,East,Debit Card,5,15.87,0.2,63.48
+TXN-1466,2025-07-03,Clothing,North,PayPal,1,25.92,0.15,22.03
+TXN-1467,2025-09-09,Sports,North,Credit Card,2,175.68,0.15,298.66
+TXN-1468,2025-03-22,Clothing,South,Apple Pay,3,70.9,0.15,180.8
+TXN-1469,2025-11-18,Electronics,South,Apple Pay,5,449.87,0.2,1799.48
+TXN-1470,2025-07-17,Home & Garden,East,Apple Pay,7,358.08,0.1,2255.9
+TXN-1471,2025-07-11,Home & Garden,East,PayPal,7,298.44,0.05,1984.63
+TXN-1472,2025-06-11,Sports,East,Debit Card,8,225.57,0.0,1804.56
+TXN-1473,2025-09-30,Books,North,Credit Card,5,17.77,0.2,71.08
+TXN-1474,2025-05-07,Clothing,West,Credit Card,1,45.45,0.15,38.63
+TXN-1475,2025-01-22,Electronics,East,Credit Card,7,1480.0,0.1,9324.0
+TXN-1476,2025-04-23,Sports,East,PayPal,5,129.54,0.05,615.31
+TXN-1477,2025-09-07,Books,West,Debit Card,4,31.29,0.2,100.13
+TXN-1478,2025-05-30,Home & Garden,East,Apple Pay,8,243.26,0.15,1654.17
+TXN-1479,2025-11-22,Books,North,Apple Pay,4,10.67,0.0,42.68
+TXN-1480,2025-12-12,Sports,South,Debit Card,3,187.12,0.2,449.09
+TXN-1481,2025-06-18,Books,West,Credit Card,1,37.38,0.2,29.9
+TXN-1482,2025-03-06,Sports,West,Apple Pay,5,158.48,0.05,752.78
+TXN-1483,2025-06-09,Clothing,West,Debit Card,6,20.22,0.15,103.12
+TXN-1484,2025-11-04,Books,West,Debit Card,7,36.74,0.0,257.18
+TXN-1485,2025-02-10,Clothing,West,Apple Pay,1,37.78,0.15,32.11
+TXN-1486,2025-06-22,Home & Garden,North,Apple Pay,2,386.79,0.2,618.86
+TXN-1487,2025-08-12,Books,South,PayPal,6,44.43,0.05,253.25
+TXN-1488,2025-01-29,Home & Garden,North,PayPal,5,391.99,0.1,1763.96
+TXN-1489,2025-05-22,Sports,East,Debit Card,3,26.2,0.05,74.67
+TXN-1490,2025-09-22,Electronics,North,Apple Pay,3,1166.6,0.0,3499.8
+TXN-1491,2025-05-16,Sports,East,Credit Card,4,114.15,0.2,365.28
+TXN-1492,2025-06-06,Books,South,Apple Pay,2,43.53,0.1,78.35
+TXN-1493,2025-11-27,Home & Garden,East,Debit Card,5,333.43,0.0,1667.15
+TXN-1494,2025-03-28,Electronics,South,Credit Card,2,654.23,0.1,1177.61
+TXN-1495,2025-07-06,Electronics,South,Debit Card,7,310.18,0.1,1954.13
+TXN-1496,2025-07-11,Clothing,South,Debit Card,3,111.85,0.2,268.44
+TXN-1497,2025-12-16,Electronics,South,Apple Pay,7,1329.94,0.15,7913.14
+TXN-1498,2025-04-27,Electronics,North,Debit Card,6,1223.5,0.1,6606.9
+TXN-1499,2025-12-21,Clothing,North,Apple Pay,6,115.05,0.05,655.78
+TXN-1500,2025-09-10,Books,East,Credit Card,8,34.31,0.05,260.76
+TXN-1501,2025-04-05,Books,North,Apple Pay,5,38.93,0.1,175.19
+TXN-1502,2025-03-26,Books,South,Credit Card,6,31.52,0.1,170.21
+TXN-1503,2025-06-23,Sports,East,Apple Pay,6,145.52,0.1,785.81
+TXN-1504,2025-09-19,Sports,South,Credit Card,7,142.68,0.0,998.76
+TXN-1505,2025-06-11,Electronics,West,PayPal,2,831.57,0.0,1663.14
+TXN-1506,2025-03-26,Electronics,East,PayPal,6,617.91,0.0,3707.46
+TXN-1507,2025-02-28,Books,North,Credit Card,2,30.31,0.15,51.53
+TXN-1508,2025-09-07,Sports,East,Credit Card,7,183.54,0.1,1156.3
+TXN-1509,2025-08-01,Home & Garden,East,Debit Card,5,362.9,0.05,1723.77
+TXN-1510,2025-12-06,Sports,North,Credit Card,2,28.88,0.2,46.21
+TXN-1511,2025-06-05,Electronics,East,Debit Card,5,482.64,0.0,2413.2
+TXN-1512,2025-01-20,Electronics,East,PayPal,4,586.04,0.0,2344.16
+TXN-1513,2025-04-27,Clothing,West,Apple Pay,6,77.52,0.05,441.86
+TXN-1514,2025-03-31,Electronics,West,Apple Pay,2,673.14,0.0,1346.28
+TXN-1515,2025-11-14,Clothing,West,Apple Pay,6,54.58,0.15,278.36
+TXN-1516,2025-05-10,Electronics,North,PayPal,3,974.23,0.2,2338.15
+TXN-1517,2025-11-14,Clothing,North,Apple Pay,3,95.93,0.0,287.79
+TXN-1518,2025-06-25,Clothing,North,Apple Pay,4,20.15,0.0,80.6
+TXN-1519,2025-03-02,Home & Garden,West,Apple Pay,3,64.62,0.1,174.47
+TXN-1520,2025-01-29,Electronics,West,Credit Card,8,987.97,0.2,6323.01
+TXN-1521,2025-11-01,Sports,North,Debit Card,5,48.59,0.15,206.51
+TXN-1522,2025-06-24,Clothing,North,Apple Pay,5,112.97,0.15,480.12
+TXN-1523,2025-06-30,Sports,East,Credit Card,1,151.17,0.05,143.61
+TXN-1524,2025-02-11,Clothing,West,Credit Card,4,65.64,0.05,249.43
+TXN-1525,2025-02-26,Home & Garden,West,PayPal,3,198.43,0.0,595.29
+TXN-1526,2025-12-30,Electronics,East,Credit Card,2,327.5,0.15,556.75
+TXN-1527,2025-08-28,Clothing,North,PayPal,7,74.84,0.15,445.3
+TXN-1528,2025-11-18,Books,West,Debit Card,4,11.33,0.15,38.52
+TXN-1529,2025-05-23,Sports,South,Apple Pay,7,212.52,0.05,1413.26
+TXN-1530,2025-09-05,Clothing,South,Debit Card,2,33.36,0.15,56.71
+TXN-1531,2025-06-13,Books,South,Credit Card,1,15.43,0.05,14.66
+TXN-1532,2025-01-28,Sports,North,Debit Card,8,237.53,0.1,1710.22
+TXN-1533,2025-12-23,Clothing,East,Apple Pay,4,61.4,0.2,196.48
+TXN-1534,2025-12-28,Electronics,North,Debit Card,4,213.92,0.2,684.54
+TXN-1535,2025-12-31,Books,West,Credit Card,8,18.22,0.1,131.18
+TXN-1536,2025-06-01,Clothing,South,Credit Card,1,106.25,0.0,106.25
+TXN-1537,2025-07-30,Electronics,North,Credit Card,6,1472.2,0.15,7508.22
+TXN-1538,2025-07-03,Clothing,South,Apple Pay,8,112.51,0.15,765.07
+TXN-1539,2025-11-27,Sports,South,Debit Card,8,241.0,0.1,1735.2
+TXN-1540,2025-09-10,Electronics,East,Credit Card,5,630.56,0.2,2522.24
+TXN-1541,2025-07-01,Home & Garden,North,Debit Card,1,96.86,0.05,92.02
+TXN-1542,2025-12-11,Home & Garden,East,Apple Pay,1,341.88,0.0,341.88
+TXN-1543,2025-11-07,Clothing,West,PayPal,2,65.67,0.1,118.21
+TXN-1544,2025-07-03,Clothing,North,Debit Card,8,109.55,0.15,744.94
+TXN-1545,2025-06-06,Books,North,Debit Card,4,18.87,0.1,67.93
+TXN-1546,2025-08-22,Electronics,East,Apple Pay,2,1283.33,0.0,2566.66
+TXN-1547,2025-07-18,Clothing,North,Apple Pay,3,105.17,0.15,268.18
+TXN-1548,2025-07-17,Books,South,Credit Card,2,18.51,0.1,33.32
+TXN-1549,2025-05-23,Clothing,North,Apple Pay,1,15.55,0.05,14.77
+TXN-1550,2025-02-20,Books,South,Credit Card,8,36.67,0.05,278.69
+TXN-1551,2025-11-11,Clothing,North,Apple Pay,1,66.46,0.15,56.49
+TXN-1552,2025-04-02,Books,West,PayPal,8,44.39,0.15,301.85
+TXN-1553,2025-10-05,Home & Garden,East,Debit Card,3,220.21,0.05,627.6
+TXN-1554,2025-12-08,Home & Garden,West,Credit Card,3,302.68,0.05,862.64
+TXN-1555,2025-12-24,Electronics,South,Apple Pay,3,575.6,0.1,1554.12
+TXN-1556,2025-02-04,Electronics,East,Credit Card,7,1169.78,0.2,6550.77
+TXN-1557,2025-09-25,Home & Garden,East,Apple Pay,4,270.81,0.05,1029.08
+TXN-1558,2025-03-13,Home & Garden,West,PayPal,7,79.17,0.0,554.19
+TXN-1559,2025-01-08,Clothing,West,Credit Card,4,24.78,0.1,89.21
+TXN-1560,2025-04-09,Electronics,East,Credit Card,1,695.36,0.0,695.36
+TXN-1561,2025-10-01,Electronics,East,Credit Card,7,311.19,0.2,1742.66
+TXN-1562,2025-05-10,Books,West,PayPal,1,27.38,0.05,26.01
+TXN-1563,2025-10-27,Sports,East,Apple Pay,4,40.68,0.0,162.72
+TXN-1564,2025-10-25,Home & Garden,South,Debit Card,4,266.35,0.15,905.59
+TXN-1565,2025-03-31,Clothing,East,Debit Card,6,114.1,0.15,581.91
+TXN-1566,2025-03-05,Electronics,North,PayPal,4,229.79,0.15,781.29
+TXN-1567,2025-09-25,Books,East,Credit Card,1,13.48,0.0,13.48
+TXN-1568,2025-02-04,Books,North,Apple Pay,8,10.76,0.1,77.47
+TXN-1569,2025-07-03,Sports,West,Debit Card,1,46.31,0.15,39.36
+TXN-1570,2025-04-29,Clothing,South,Credit Card,1,23.88,0.05,22.69
+TXN-1571,2025-06-10,Sports,South,Credit Card,2,55.74,0.15,94.76
+TXN-1572,2025-02-17,Clothing,North,Debit Card,1,31.54,0.0,31.54
+TXN-1573,2025-01-14,Books,East,PayPal,5,37.06,0.2,148.24
+TXN-1574,2025-11-26,Home & Garden,North,Debit Card,8,88.52,0.15,601.94
+TXN-1575,2025-08-09,Books,South,Credit Card,1,44.72,0.15,38.01
+TXN-1576,2025-10-13,Sports,North,Credit Card,2,224.44,0.1,403.99
+TXN-1577,2025-11-10,Home & Garden,South,Debit Card,7,231.4,0.15,1376.83
+TXN-1578,2025-10-16,Books,East,Debit Card,1,15.54,0.15,13.21
+TXN-1579,2025-09-23,Sports,North,Debit Card,4,91.65,0.05,348.27
+TXN-1580,2025-11-06,Electronics,South,Debit Card,7,1078.63,0.1,6795.37
+TXN-1581,2025-01-12,Clothing,West,PayPal,3,31.42,0.0,94.26
+TXN-1582,2025-06-23,Sports,West,Credit Card,7,179.13,0.1,1128.52
+TXN-1583,2025-07-05,Electronics,East,Apple Pay,2,854.65,0.0,1709.3
+TXN-1584,2025-06-08,Clothing,South,Credit Card,8,19.19,0.05,145.84
+TXN-1585,2025-10-20,Clothing,West,PayPal,5,56.13,0.2,224.52
+TXN-1586,2025-10-13,Electronics,North,Apple Pay,5,454.58,0.2,1818.32
+TXN-1587,2025-04-27,Books,East,Credit Card,5,43.29,0.15,183.98
+TXN-1588,2025-11-20,Books,North,Apple Pay,4,19.22,0.15,65.35
+TXN-1589,2025-05-29,Books,South,Credit Card,1,37.73,0.2,30.18
+TXN-1590,2025-12-25,Sports,West,Debit Card,7,189.15,0.0,1324.05
+TXN-1591,2025-07-10,Books,East,Apple Pay,4,16.6,0.2,53.12
+TXN-1592,2025-10-16,Home & Garden,South,PayPal,4,31.83,0.05,120.95
+TXN-1593,2025-10-27,Home & Garden,West,Credit Card,4,275.74,0.05,1047.81
+TXN-1594,2025-07-29,Electronics,North,Apple Pay,1,551.29,0.0,551.29
+TXN-1595,2025-04-22,Electronics,South,PayPal,8,344.4,0.2,2204.16
+TXN-1596,2025-01-22,Electronics,East,Debit Card,7,355.29,0.1,2238.33
+TXN-1597,2025-10-13,Clothing,North,Apple Pay,1,72.17,0.05,68.56
+TXN-1598,2025-11-04,Home & Garden,East,Debit Card,8,85.72,0.1,617.18
+TXN-1599,2025-08-10,Books,East,Apple Pay,2,36.22,0.1,65.2
+TXN-1600,2025-04-06,Home & Garden,North,Credit Card,7,238.5,0.2,1335.6
+TXN-1601,2025-03-03,Books,South,Apple Pay,5,19.57,0.05,92.96
+TXN-1602,2025-02-12,Home & Garden,South,Credit Card,3,208.38,0.0,625.14
+TXN-1603,2025-08-31,Home & Garden,East,Apple Pay,4,342.2,0.0,1368.8
+TXN-1604,2025-08-23,Sports,North,Debit Card,1,148.49,0.1,133.64
+TXN-1605,2025-07-10,Home & Garden,South,Credit Card,7,50.47,0.1,317.96
+TXN-1606,2025-01-10,Electronics,West,Credit Card,1,202.59,0.15,172.2
+TXN-1607,2025-04-01,Home & Garden,West,Apple Pay,2,329.74,0.15,560.56
+TXN-1608,2025-07-07,Sports,West,Credit Card,7,57.31,0.1,361.05
+TXN-1609,2025-09-23,Clothing,North,Debit Card,5,27.22,0.15,115.68
+TXN-1610,2025-10-03,Home & Garden,West,Debit Card,1,218.39,0.15,185.63
+TXN-1611,2025-03-22,Sports,West,Debit Card,3,211.16,0.2,506.78
+TXN-1612,2025-02-24,Electronics,South,PayPal,3,790.94,0.15,2016.9
+TXN-1613,2025-07-29,Electronics,East,Debit Card,4,343.56,0.15,1168.1
+TXN-1614,2025-04-22,Books,South,Debit Card,4,25.01,0.05,95.04
+TXN-1615,2025-06-09,Home & Garden,South,PayPal,2,359.73,0.0,719.46
+TXN-1616,2025-05-25,Home & Garden,South,PayPal,7,197.78,0.05,1315.24
+TXN-1617,2025-09-24,Sports,North,Apple Pay,8,161.95,0.1,1166.04
+TXN-1618,2025-03-02,Books,East,Debit Card,4,31.2,0.15,106.08
+TXN-1619,2025-01-17,Sports,North,Apple Pay,3,236.13,0.15,602.13
+TXN-1620,2025-10-17,Books,East,Debit Card,1,37.79,0.15,32.12
+TXN-1621,2025-01-27,Books,South,Credit Card,3,44.06,0.0,132.18
+TXN-1622,2025-08-16,Home & Garden,East,Credit Card,1,268.14,0.1,241.33
+TXN-1623,2025-10-16,Clothing,East,Credit Card,8,59.98,0.1,431.86
+TXN-1624,2025-07-17,Electronics,North,PayPal,5,455.76,0.0,2278.8
+TXN-1625,2025-12-27,Sports,East,Debit Card,2,28.97,0.15,49.25
+TXN-1626,2025-07-30,Books,East,PayPal,5,38.43,0.1,172.94
+TXN-1627,2025-08-01,Electronics,North,Debit Card,5,378.11,0.05,1796.02
+TXN-1628,2025-05-16,Clothing,South,PayPal,4,15.64,0.15,53.18
+TXN-1629,2025-02-04,Books,West,Credit Card,1,26.37,0.05,25.05
+TXN-1630,2025-05-03,Home & Garden,East,PayPal,2,68.99,0.1,124.18
+TXN-1631,2025-01-05,Books,West,Debit Card,7,10.05,0.15,59.8
+TXN-1632,2025-02-22,Electronics,West,PayPal,5,590.6,0.1,2657.7
+TXN-1633,2025-04-10,Sports,North,Debit Card,2,145.23,0.05,275.94
+TXN-1634,2025-09-08,Sports,South,Credit Card,7,132.15,0.15,786.29
+TXN-1635,2025-01-26,Sports,South,Debit Card,5,76.13,0.05,361.62
+TXN-1636,2025-06-17,Home & Garden,South,PayPal,6,73.43,0.1,396.52
+TXN-1637,2025-11-22,Clothing,North,PayPal,4,91.47,0.05,347.59
+TXN-1638,2025-02-20,Sports,West,Debit Card,1,248.8,0.15,211.48
+TXN-1639,2025-09-22,Electronics,West,PayPal,5,823.46,0.2,3293.84
+TXN-1640,2025-10-31,Books,South,PayPal,4,41.62,0.15,141.51
+TXN-1641,2025-05-25,Electronics,South,Debit Card,1,1087.68,0.15,924.53
+TXN-1642,2025-01-21,Home & Garden,West,Credit Card,2,293.98,0.1,529.16
+TXN-1643,2025-10-28,Sports,West,Debit Card,5,124.33,0.0,621.65
+TXN-1644,2025-04-13,Electronics,West,Credit Card,7,1413.67,0.05,9400.91
+TXN-1645,2025-06-23,Sports,North,Apple Pay,3,50.26,0.2,120.62
+TXN-1646,2025-02-21,Clothing,West,PayPal,2,71.43,0.15,121.43
+TXN-1647,2025-06-23,Electronics,North,Debit Card,1,1133.89,0.1,1020.5
+TXN-1648,2025-03-17,Home & Garden,West,PayPal,6,131.53,0.05,749.72
+TXN-1649,2025-06-08,Home & Garden,South,PayPal,2,150.87,0.0,301.74
+TXN-1650,2025-01-13,Sports,East,PayPal,4,227.61,0.1,819.4
+TXN-1651,2025-07-01,Electronics,West,Credit Card,4,1124.16,0.0,4496.64
+TXN-1652,2025-06-16,Electronics,West,PayPal,2,1165.82,0.15,1981.89
+TXN-1653,2025-04-03,Clothing,West,Credit Card,8,43.88,0.0,351.04
+TXN-1654,2025-12-26,Home & Garden,North,Debit Card,1,109.38,0.2,87.5
+TXN-1655,2025-05-27,Electronics,West,PayPal,3,1224.45,0.15,3122.35
+TXN-1656,2025-08-16,Books,East,Apple Pay,4,43.18,0.0,172.72
+TXN-1657,2025-05-22,Home & Garden,East,Apple Pay,3,390.53,0.0,1171.59
+TXN-1658,2025-01-14,Books,South,Apple Pay,3,18.21,0.1,49.17
+TXN-1659,2025-01-17,Clothing,East,Debit Card,1,90.28,0.0,90.28
+TXN-1660,2025-05-19,Clothing,North,PayPal,3,66.7,0.2,160.08
+TXN-1661,2025-01-04,Sports,South,Apple Pay,2,161.08,0.0,322.16
+TXN-1662,2025-08-29,Electronics,East,Apple Pay,5,860.51,0.1,3872.3
+TXN-1663,2025-01-23,Clothing,South,Apple Pay,8,83.35,0.15,566.78
+TXN-1664,2025-04-15,Electronics,East,Credit Card,6,1179.28,0.1,6368.11
+TXN-1665,2025-01-27,Clothing,North,Credit Card,8,47.95,0.1,345.24
+TXN-1666,2025-08-31,Sports,North,PayPal,1,63.13,0.1,56.82
+TXN-1667,2025-09-14,Home & Garden,East,PayPal,5,141.91,0.0,709.55
+TXN-1668,2025-04-21,Home & Garden,North,Debit Card,3,246.67,0.2,592.01
+TXN-1669,2025-05-31,Sports,West,Debit Card,3,215.94,0.05,615.43
+TXN-1670,2025-04-07,Clothing,North,Apple Pay,6,70.0,0.2,336.0
+TXN-1671,2025-05-26,Electronics,South,PayPal,3,1147.03,0.05,3269.04
+TXN-1672,2025-08-20,Books,South,PayPal,4,27.51,0.0,110.04
+TXN-1673,2025-12-16,Electronics,West,PayPal,2,689.37,0.1,1240.87
+TXN-1674,2025-12-14,Clothing,West,Apple Pay,4,115.13,0.05,437.49
+TXN-1675,2025-10-01,Books,North,Apple Pay,7,13.34,0.0,93.38
+TXN-1676,2025-12-15,Clothing,East,Credit Card,3,64.11,0.2,153.86
+TXN-1677,2025-09-01,Clothing,East,Debit Card,1,16.47,0.15,14.0
+TXN-1678,2025-11-21,Home & Garden,South,PayPal,8,213.79,0.1,1539.29
+TXN-1679,2025-11-07,Books,West,Credit Card,5,20.17,0.1,90.77
+TXN-1680,2025-04-16,Home & Garden,North,Debit Card,8,336.12,0.05,2554.51
+TXN-1681,2025-08-13,Sports,West,PayPal,7,76.62,0.05,509.52
+TXN-1682,2025-06-15,Sports,West,Apple Pay,2,207.46,0.15,352.68
+TXN-1683,2025-02-23,Clothing,West,Credit Card,6,65.89,0.1,355.81
+TXN-1684,2025-07-13,Clothing,South,Debit Card,5,57.84,0.1,260.28
+TXN-1685,2025-12-10,Clothing,East,PayPal,2,64.82,0.05,123.16
+TXN-1686,2025-10-22,Sports,East,Apple Pay,8,144.91,0.0,1159.28
+TXN-1687,2025-06-01,Sports,North,Debit Card,5,40.37,0.0,201.85
+TXN-1688,2025-10-12,Clothing,North,PayPal,3,41.92,0.2,100.61
+TXN-1689,2025-07-29,Clothing,North,Debit Card,6,75.65,0.1,408.51
+TXN-1690,2025-05-05,Sports,North,Debit Card,2,45.48,0.1,81.86
+TXN-1691,2025-10-08,Books,East,Debit Card,7,40.25,0.05,267.66
+TXN-1692,2025-01-23,Home & Garden,North,Credit Card,4,254.94,0.2,815.81
+TXN-1693,2025-02-02,Books,East,Apple Pay,8,18.48,0.05,140.45
+TXN-1694,2025-06-20,Home & Garden,North,Credit Card,2,357.8,0.1,644.04
+TXN-1695,2025-11-13,Books,East,PayPal,1,22.38,0.15,19.02
+TXN-1696,2025-10-02,Electronics,East,Debit Card,4,1011.1,0.05,3842.18
+TXN-1697,2025-08-30,Electronics,West,Credit Card,6,1231.15,0.0,7386.9
+TXN-1698,2025-07-11,Books,South,Apple Pay,6,37.53,0.2,180.14
+TXN-1699,2025-08-02,Sports,West,Credit Card,1,28.36,0.2,22.69
+TXN-1700,2025-07-31,Home & Garden,East,PayPal,2,203.47,0.0,406.94
+TXN-1701,2025-04-30,Sports,North,Debit Card,1,107.31,0.05,101.94
+TXN-1702,2025-10-06,Home & Garden,West,Debit Card,4,249.3,0.05,947.34
+TXN-1703,2025-05-21,Sports,West,Apple Pay,4,119.96,0.0,479.84
+TXN-1704,2025-05-23,Books,North,PayPal,7,13.31,0.05,88.51
+TXN-1705,2025-12-09,Clothing,West,Apple Pay,8,79.35,0.05,603.06
+TXN-1706,2025-12-07,Clothing,West,Apple Pay,5,96.59,0.15,410.51
+TXN-1707,2025-09-20,Books,East,Apple Pay,3,38.82,0.05,110.64
+TXN-1708,2025-03-31,Home & Garden,East,Credit Card,8,115.58,0.1,832.18
+TXN-1709,2025-01-23,Books,West,Debit Card,4,13.58,0.15,46.17
+TXN-1710,2025-08-02,Books,West,PayPal,1,17.42,0.0,17.42
+TXN-1711,2025-09-24,Books,South,Debit Card,8,29.06,0.15,197.61
+TXN-1712,2025-10-22,Electronics,East,PayPal,1,1141.94,0.05,1084.84
+TXN-1713,2025-08-02,Home & Garden,West,Credit Card,8,134.68,0.0,1077.44
+TXN-1714,2025-06-17,Sports,West,Debit Card,6,39.14,0.05,223.1
+TXN-1715,2025-02-28,Electronics,South,Apple Pay,4,1066.39,0.1,3839.0
+TXN-1716,2025-06-29,Home & Garden,North,Credit Card,3,272.42,0.2,653.81
+TXN-1717,2025-06-29,Clothing,East,Debit Card,4,90.15,0.2,288.48
+TXN-1718,2025-11-02,Electronics,East,Debit Card,7,1223.63,0.1,7708.87
+TXN-1719,2025-10-10,Clothing,North,Credit Card,6,116.45,0.15,593.89
+TXN-1720,2025-10-08,Home & Garden,East,Apple Pay,1,88.13,0.15,74.91
+TXN-1721,2025-09-10,Sports,South,Apple Pay,4,207.51,0.2,664.03
+TXN-1722,2025-06-04,Clothing,West,Credit Card,3,114.37,0.05,325.95
+TXN-1723,2025-11-12,Clothing,South,PayPal,3,73.8,0.1,199.26
+TXN-1724,2025-09-11,Electronics,North,Credit Card,3,347.09,0.1,937.14
+TXN-1725,2025-12-02,Clothing,North,Credit Card,4,35.94,0.2,115.01
+TXN-1726,2025-01-16,Sports,East,Apple Pay,7,101.24,0.15,602.38
+TXN-1727,2025-11-11,Sports,East,Credit Card,7,189.84,0.2,1063.1
+TXN-1728,2025-11-21,Home & Garden,East,Credit Card,1,97.67,0.05,92.79
+TXN-1729,2025-06-12,Electronics,East,Credit Card,3,488.11,0.1,1317.9
+TXN-1730,2025-08-01,Sports,South,Debit Card,8,113.93,0.0,911.44
+TXN-1731,2025-05-03,Electronics,West,Apple Pay,6,831.59,0.1,4490.59
+TXN-1732,2025-04-03,Books,North,PayPal,8,19.92,0.2,127.49
+TXN-1733,2025-06-08,Books,West,Credit Card,6,31.81,0.15,162.23
+TXN-1734,2025-03-02,Clothing,North,Debit Card,6,83.02,0.05,473.21
+TXN-1735,2025-09-10,Electronics,South,PayPal,2,902.97,0.1,1625.35
+TXN-1736,2025-06-21,Sports,South,Debit Card,1,195.63,0.1,176.07
+TXN-1737,2025-04-09,Home & Garden,North,Apple Pay,1,84.39,0.05,80.17
+TXN-1738,2025-04-14,Home & Garden,North,Credit Card,7,352.89,0.05,2346.72
+TXN-1739,2025-06-08,Books,West,Apple Pay,5,26.71,0.2,106.84
+TXN-1740,2025-06-19,Clothing,East,Credit Card,1,105.49,0.2,84.39
+TXN-1741,2025-01-04,Electronics,East,PayPal,4,1263.06,0.1,4547.02
+TXN-1742,2025-05-19,Home & Garden,West,Debit Card,5,302.74,0.15,1286.64
+TXN-1743,2025-12-31,Clothing,West,Apple Pay,1,49.11,0.2,39.29
+TXN-1744,2025-10-04,Electronics,South,PayPal,2,1189.0,0.1,2140.2
+TXN-1745,2025-03-10,Books,South,Credit Card,3,33.81,0.1,91.29
+TXN-1746,2025-03-23,Electronics,West,Apple Pay,2,583.48,0.2,933.57
+TXN-1747,2025-01-12,Books,East,Debit Card,4,25.58,0.1,92.09
+TXN-1748,2025-11-02,Books,South,Debit Card,7,18.17,0.2,101.75
+TXN-1749,2025-04-14,Electronics,South,PayPal,7,895.88,0.05,5957.6
+TXN-1750,2025-06-11,Electronics,South,Debit Card,6,973.91,0.0,5843.46
+TXN-1751,2025-12-23,Home & Garden,North,Credit Card,1,324.18,0.0,324.18
+TXN-1752,2025-06-15,Books,East,PayPal,1,23.23,0.2,18.58
+TXN-1753,2025-11-11,Home & Garden,East,Credit Card,3,46.17,0.0,138.51
+TXN-1754,2025-05-29,Clothing,North,PayPal,6,94.44,0.1,509.98
+TXN-1755,2025-02-04,Sports,South,PayPal,8,43.11,0.2,275.9
+TXN-1756,2025-12-09,Home & Garden,West,Debit Card,2,232.84,0.1,419.11
+TXN-1757,2025-05-29,Sports,West,Credit Card,8,46.55,0.2,297.92
+TXN-1758,2025-12-26,Sports,East,Apple Pay,1,206.98,0.0,206.98
+TXN-1759,2025-01-10,Electronics,West,Apple Pay,8,1042.04,0.15,7085.87
+TXN-1760,2025-07-11,Sports,East,Debit Card,5,34.26,0.0,171.3
+TXN-1761,2025-11-05,Sports,West,Apple Pay,6,166.58,0.0,999.48
+TXN-1762,2025-10-02,Books,West,Apple Pay,7,18.77,0.05,124.82
+TXN-1763,2025-02-23,Clothing,West,Apple Pay,1,54.02,0.05,51.32
+TXN-1764,2025-12-11,Sports,East,PayPal,6,191.69,0.0,1150.14
+TXN-1765,2025-05-07,Home & Garden,East,PayPal,7,306.99,0.1,1934.04
+TXN-1766,2025-02-17,Sports,West,Apple Pay,4,192.23,0.1,692.03
+TXN-1767,2025-03-03,Books,South,PayPal,2,29.42,0.2,47.07
+TXN-1768,2025-06-03,Books,East,Debit Card,5,27.14,0.1,122.13
+TXN-1769,2025-02-14,Clothing,South,PayPal,3,33.32,0.1,89.96
+TXN-1770,2025-07-30,Home & Garden,South,Apple Pay,2,311.68,0.1,561.02
+TXN-1771,2025-09-24,Home & Garden,South,Debit Card,2,187.93,0.0,375.86
+TXN-1772,2025-12-21,Sports,South,PayPal,7,31.4,0.0,219.8
+TXN-1773,2025-02-20,Home & Garden,East,PayPal,2,314.59,0.05,597.72
+TXN-1774,2025-06-06,Home & Garden,East,Credit Card,4,198.56,0.05,754.53
+TXN-1775,2025-02-11,Electronics,East,Apple Pay,5,257.04,0.0,1285.2
+TXN-1776,2025-06-27,Sports,West,PayPal,1,226.33,0.2,181.06
+TXN-1777,2025-03-25,Electronics,South,Credit Card,2,477.29,0.15,811.39
+TXN-1778,2025-06-05,Sports,North,PayPal,4,132.24,0.1,476.06
+TXN-1779,2025-09-26,Home & Garden,North,Apple Pay,6,394.04,0.15,2009.6
+TXN-1780,2025-09-10,Home & Garden,South,PayPal,7,265.17,0.2,1484.95
+TXN-1781,2025-08-04,Home & Garden,East,PayPal,3,356.74,0.05,1016.71
+TXN-1782,2025-08-20,Sports,West,Credit Card,8,104.9,0.15,713.32
+TXN-1783,2025-01-15,Books,West,Debit Card,6,18.34,0.2,88.03
+TXN-1784,2025-11-18,Home & Garden,West,Credit Card,6,296.0,0.1,1598.4
+TXN-1785,2025-01-28,Electronics,East,PayPal,5,1112.63,0.2,4450.52
+TXN-1786,2025-02-26,Sports,East,Debit Card,3,177.83,0.1,480.14
+TXN-1787,2025-12-18,Sports,North,PayPal,4,67.05,0.05,254.79
+TXN-1788,2025-06-21,Clothing,North,PayPal,1,72.2,0.05,68.59
+TXN-1789,2025-11-20,Clothing,East,Credit Card,6,22.65,0.2,108.72
+TXN-1790,2025-12-12,Books,North,Debit Card,3,15.37,0.05,43.8
+TXN-1791,2025-07-20,Home & Garden,East,Credit Card,7,211.71,0.2,1185.58
+TXN-1792,2025-05-17,Sports,North,Credit Card,2,40.4,0.15,68.68
+TXN-1793,2025-07-03,Clothing,East,Apple Pay,3,50.62,0.2,121.49
+TXN-1794,2025-12-22,Sports,West,Credit Card,4,47.7,0.05,181.26
+TXN-1795,2025-11-14,Clothing,North,PayPal,8,58.9,0.05,447.64
+TXN-1796,2025-03-31,Books,North,Debit Card,2,15.02,0.0,30.04
+TXN-1797,2025-06-25,Home & Garden,North,Credit Card,1,167.05,0.1,150.35
+TXN-1798,2025-03-23,Clothing,West,PayPal,4,111.71,0.05,424.5
+TXN-1799,2025-01-22,Home & Garden,North,PayPal,6,73.66,0.2,353.57
+TXN-1800,2025-10-09,Home & Garden,East,Credit Card,3,163.45,0.1,441.31
+TXN-1801,2025-06-12,Books,South,Debit Card,4,18.31,0.15,62.25
+TXN-1802,2025-09-19,Books,North,PayPal,4,17.64,0.15,59.98
+TXN-1803,2025-10-09,Electronics,West,Credit Card,6,1398.14,0.05,7969.4
+TXN-1804,2025-09-13,Home & Garden,South,Credit Card,7,346.76,0.0,2427.32
+TXN-1805,2025-02-15,Clothing,North,Credit Card,7,34.97,0.0,244.79
+TXN-1806,2025-10-30,Home & Garden,North,Apple Pay,7,85.6,0.1,539.28
+TXN-1807,2025-02-23,Clothing,East,Credit Card,5,63.7,0.0,318.5
+TXN-1808,2025-05-23,Sports,West,Credit Card,6,176.57,0.0,1059.42
+TXN-1809,2025-11-23,Home & Garden,North,PayPal,4,194.54,0.15,661.44
+TXN-1810,2025-06-29,Clothing,North,Debit Card,3,38.78,0.1,104.71
+TXN-1811,2025-06-23,Sports,East,Debit Card,8,108.64,0.1,782.21
+TXN-1812,2025-11-10,Sports,West,Credit Card,7,187.26,0.15,1114.2
+TXN-1813,2025-04-01,Books,West,PayPal,7,26.43,0.0,185.01
+TXN-1814,2025-01-05,Electronics,West,PayPal,4,927.63,0.2,2968.42
+TXN-1815,2025-06-22,Home & Garden,East,Debit Card,6,399.29,0.15,2036.38
+TXN-1816,2025-12-11,Books,North,Credit Card,5,21.47,0.05,101.98
+TXN-1817,2025-06-05,Books,South,Debit Card,6,11.54,0.15,58.85
+TXN-1818,2025-07-13,Clothing,North,Apple Pay,4,49.33,0.2,157.86
+TXN-1819,2025-08-23,Clothing,North,Debit Card,2,83.1,0.0,166.2
+TXN-1820,2025-05-23,Sports,North,PayPal,7,83.96,0.0,587.72
+TXN-1821,2025-04-13,Electronics,South,PayPal,5,679.9,0.15,2889.57
+TXN-1822,2025-02-19,Electronics,West,Credit Card,1,1383.71,0.1,1245.34
+TXN-1823,2025-11-08,Home & Garden,East,Credit Card,4,262.41,0.05,997.16
+TXN-1824,2025-03-02,Electronics,East,PayPal,6,1453.48,0.2,6976.7
+TXN-1825,2025-10-15,Electronics,West,Credit Card,2,489.56,0.1,881.21
+TXN-1826,2025-12-11,Home & Garden,West,Debit Card,4,143.07,0.0,572.28
+TXN-1827,2025-07-02,Books,East,Debit Card,4,21.45,0.05,81.51
+TXN-1828,2025-11-28,Home & Garden,North,Apple Pay,3,187.57,0.2,450.17
+TXN-1829,2025-06-09,Clothing,North,PayPal,4,94.7,0.0,378.8
+TXN-1830,2025-01-26,Sports,West,PayPal,2,42.67,0.2,68.27
+TXN-1831,2025-08-23,Clothing,East,Apple Pay,8,84.13,0.15,572.08
+TXN-1832,2025-07-25,Sports,West,PayPal,3,140.27,0.0,420.81
+TXN-1833,2025-10-31,Clothing,South,Debit Card,7,116.84,0.05,776.99
+TXN-1834,2025-10-28,Clothing,East,Apple Pay,3,41.33,0.0,123.99
+TXN-1835,2025-07-16,Clothing,North,Credit Card,7,43.3,0.05,287.94
+TXN-1836,2025-06-14,Electronics,East,Credit Card,8,1277.71,0.0,10221.68
+TXN-1837,2025-12-14,Sports,West,PayPal,1,178.8,0.05,169.86
+TXN-1838,2025-07-14,Home & Garden,South,Debit Card,8,234.78,0.05,1784.33
+TXN-1839,2025-06-07,Electronics,South,Apple Pay,4,914.3,0.2,2925.76
+TXN-1840,2025-10-02,Books,South,Debit Card,1,27.6,0.15,23.46
+TXN-1841,2025-04-21,Books,East,Apple Pay,4,17.22,0.0,68.88
+TXN-1842,2025-04-03,Electronics,South,Debit Card,7,1322.25,0.15,7867.39
+TXN-1843,2025-07-10,Books,South,Debit Card,6,38.72,0.0,232.32
+TXN-1844,2025-06-04,Home & Garden,East,Credit Card,7,326.84,0.1,2059.09
+TXN-1845,2025-11-24,Sports,North,Debit Card,8,104.48,0.2,668.67
+TXN-1846,2025-05-11,Books,South,Debit Card,6,26.56,0.2,127.49
+TXN-1847,2025-11-14,Books,East,Apple Pay,7,34.29,0.0,240.03
+TXN-1848,2025-09-27,Books,North,Apple Pay,4,40.53,0.05,154.01
+TXN-1849,2025-01-24,Sports,South,Debit Card,1,233.0,0.15,198.05
+TXN-1850,2025-04-04,Sports,West,Apple Pay,5,99.85,0.2,399.4
+TXN-1851,2025-08-21,Clothing,West,Credit Card,7,84.62,0.2,473.87
+TXN-1852,2025-11-29,Electronics,North,PayPal,5,510.31,0.05,2423.97
+TXN-1853,2025-04-01,Sports,North,Debit Card,3,98.8,0.05,281.58
+TXN-1854,2025-11-15,Sports,North,Apple Pay,3,243.42,0.2,584.21
+TXN-1855,2025-01-21,Home & Garden,West,Apple Pay,7,291.25,0.1,1834.88
+TXN-1856,2025-11-17,Electronics,North,PayPal,5,481.69,0.1,2167.61
+TXN-1857,2025-09-07,Books,West,PayPal,3,16.13,0.1,43.55
+TXN-1858,2025-05-07,Clothing,East,Apple Pay,1,57.3,0.1,51.57
+TXN-1859,2025-05-25,Books,North,Debit Card,8,18.14,0.1,130.61
+TXN-1860,2025-01-07,Electronics,North,Apple Pay,1,1114.58,0.2,891.66
+TXN-1861,2025-01-21,Sports,East,Debit Card,3,44.24,0.2,106.18
+TXN-1862,2025-09-03,Books,West,Credit Card,3,24.39,0.05,69.51
+TXN-1863,2025-12-25,Electronics,South,Debit Card,5,254.89,0.15,1083.28
+TXN-1864,2025-03-27,Electronics,West,Credit Card,4,1017.16,0.15,3458.34
+TXN-1865,2025-01-12,Books,West,Debit Card,2,24.97,0.15,42.45
+TXN-1866,2025-01-26,Books,East,Debit Card,1,18.13,0.05,17.22
+TXN-1867,2025-03-30,Books,East,Apple Pay,7,25.72,0.2,144.03
+TXN-1868,2025-02-16,Clothing,South,Debit Card,8,102.22,0.1,735.98
+TXN-1869,2025-02-06,Electronics,North,Apple Pay,6,1487.6,0.05,8479.32
+TXN-1870,2025-01-10,Books,East,Apple Pay,7,36.63,0.05,243.59
+TXN-1871,2025-09-17,Books,West,Credit Card,3,12.24,0.0,36.72
+TXN-1872,2025-05-23,Home & Garden,South,Credit Card,8,312.13,0.05,2372.19
+TXN-1873,2025-08-07,Electronics,South,Credit Card,1,261.66,0.05,248.58
+TXN-1874,2025-06-23,Clothing,South,Debit Card,1,91.73,0.15,77.97
+TXN-1875,2025-09-05,Clothing,North,Apple Pay,1,36.68,0.2,29.34
+TXN-1876,2025-10-05,Electronics,South,Apple Pay,6,820.0,0.2,3936.0
+TXN-1877,2025-01-17,Electronics,South,Debit Card,7,749.78,0.05,4986.04
+TXN-1878,2025-09-03,Sports,West,PayPal,7,69.51,0.0,486.57
+TXN-1879,2025-02-23,Electronics,West,Debit Card,8,1228.36,0.1,8844.19
+TXN-1880,2025-12-05,Electronics,West,Credit Card,4,227.65,0.1,819.54
+TXN-1881,2025-10-22,Sports,East,Apple Pay,5,130.49,0.2,521.96
+TXN-1882,2025-11-19,Sports,East,Credit Card,5,53.94,0.05,256.21
+TXN-1883,2025-08-22,Books,East,Apple Pay,4,27.85,0.0,111.4
+TXN-1884,2025-08-23,Books,West,Credit Card,1,18.94,0.2,15.15
+TXN-1885,2025-04-22,Electronics,East,PayPal,8,1416.33,0.0,11330.64
+TXN-1886,2025-03-18,Sports,South,Apple Pay,8,147.64,0.0,1181.12
+TXN-1887,2025-12-09,Home & Garden,South,Debit Card,1,301.14,0.15,255.97
+TXN-1888,2025-12-21,Home & Garden,South,PayPal,1,115.39,0.1,103.85
+TXN-1889,2025-12-08,Clothing,South,PayPal,5,48.59,0.1,218.66
+TXN-1890,2025-05-19,Clothing,West,Apple Pay,6,56.36,0.1,304.34
+TXN-1891,2025-03-15,Clothing,South,Apple Pay,2,22.69,0.05,43.11
+TXN-1892,2025-05-19,Home & Garden,East,Debit Card,3,155.27,0.05,442.52
+TXN-1893,2025-01-22,Books,South,PayPal,3,25.11,0.2,60.26
+TXN-1894,2025-06-04,Books,West,Debit Card,2,17.68,0.05,33.59
+TXN-1895,2025-12-15,Home & Garden,North,PayPal,3,167.47,0.15,427.05
+TXN-1896,2025-01-10,Sports,South,Apple Pay,3,164.08,0.0,492.24
+TXN-1897,2025-10-15,Electronics,West,Credit Card,7,887.12,0.2,4967.87
+TXN-1898,2025-02-08,Electronics,South,Apple Pay,7,1444.36,0.05,9604.99
+TXN-1899,2025-05-17,Home & Garden,North,PayPal,1,59.55,0.2,47.64
+TXN-1900,2025-02-02,Electronics,North,Apple Pay,6,827.64,0.15,4220.96
+TXN-1901,2025-05-25,Clothing,East,Debit Card,2,62.11,0.1,111.8
+TXN-1902,2025-05-01,Clothing,South,Credit Card,8,119.41,0.15,811.99
+TXN-1903,2025-10-18,Sports,North,Credit Card,1,98.51,0.2,78.81
+TXN-1904,2025-09-22,Electronics,East,Credit Card,3,1491.44,0.05,4250.6
+TXN-1905,2025-10-02,Books,West,Apple Pay,5,29.32,0.0,146.6
+TXN-1906,2025-02-14,Books,North,Apple Pay,8,32.7,0.05,248.52
+TXN-1907,2025-08-03,Books,East,Apple Pay,5,33.16,0.1,149.22
+TXN-1908,2025-10-17,Books,East,Apple Pay,2,32.05,0.2,51.28
+TXN-1909,2025-12-02,Electronics,East,Apple Pay,1,1200.35,0.2,960.28
+TXN-1910,2025-12-12,Books,North,Credit Card,8,33.1,0.05,251.56
+TXN-1911,2025-01-13,Clothing,South,Debit Card,2,69.13,0.05,131.35
+TXN-1912,2025-09-08,Sports,North,Debit Card,3,204.34,0.2,490.42
+TXN-1913,2025-01-18,Electronics,East,Apple Pay,5,1259.27,0.1,5666.72
+TXN-1914,2025-11-26,Sports,North,Credit Card,6,232.21,0.0,1393.26
+TXN-1915,2025-10-22,Electronics,South,Debit Card,3,1163.86,0.2,2793.26
+TXN-1916,2025-04-04,Sports,East,Credit Card,8,65.13,0.2,416.83
+TXN-1917,2025-04-20,Home & Garden,South,Apple Pay,6,213.2,0.0,1279.2
+TXN-1918,2025-09-13,Books,South,PayPal,5,39.66,0.1,178.47
+TXN-1919,2025-12-25,Home & Garden,West,Apple Pay,6,155.02,0.1,837.11
+TXN-1920,2025-01-14,Clothing,South,Apple Pay,5,54.04,0.05,256.69
+TXN-1921,2025-08-17,Sports,North,PayPal,4,64.39,0.05,244.68
+TXN-1922,2025-02-22,Electronics,North,PayPal,8,868.21,0.1,6251.11
+TXN-1923,2025-03-24,Home & Garden,North,Apple Pay,1,280.56,0.05,266.53
+TXN-1924,2025-04-14,Books,East,Credit Card,4,32.21,0.15,109.51
+TXN-1925,2025-03-30,Sports,South,PayPal,8,53.06,0.0,424.48
+TXN-1926,2025-02-23,Home & Garden,South,PayPal,4,315.24,0.2,1008.77
+TXN-1927,2025-01-17,Electronics,North,PayPal,3,1102.48,0.15,2811.32
+TXN-1928,2025-06-15,Home & Garden,South,Credit Card,1,118.07,0.2,94.46
+TXN-1929,2025-06-10,Sports,West,PayPal,5,100.36,0.05,476.71
+TXN-1930,2025-08-15,Electronics,East,Apple Pay,7,206.42,0.1,1300.45
+TXN-1931,2025-10-13,Books,South,Debit Card,1,41.02,0.1,36.92
+TXN-1932,2025-09-23,Clothing,West,Debit Card,8,102.58,0.1,738.58
+TXN-1933,2025-10-25,Home & Garden,West,Debit Card,7,364.04,0.05,2420.87
+TXN-1934,2025-12-26,Sports,South,PayPal,8,154.07,0.2,986.05
+TXN-1935,2025-04-14,Books,South,Credit Card,5,31.92,0.05,151.62
+TXN-1936,2025-06-20,Home & Garden,North,Apple Pay,2,314.45,0.15,534.56
+TXN-1937,2025-02-25,Electronics,South,Apple Pay,1,1022.45,0.2,817.96
+TXN-1938,2025-06-11,Sports,South,PayPal,8,26.1,0.15,177.48
+TXN-1939,2025-06-23,Home & Garden,West,Debit Card,4,276.98,0.05,1052.52
+TXN-1940,2025-05-06,Clothing,East,PayPal,6,110.39,0.1,596.11
+TXN-1941,2025-05-20,Sports,South,Credit Card,8,182.29,0.05,1385.4
+TXN-1942,2025-08-31,Clothing,North,PayPal,7,77.61,0.1,488.94
+TXN-1943,2025-11-28,Clothing,South,Apple Pay,4,107.78,0.05,409.56
+TXN-1944,2025-06-15,Home & Garden,West,Apple Pay,1,200.78,0.0,200.78
+TXN-1945,2025-03-28,Sports,South,PayPal,8,105.21,0.2,673.34
+TXN-1946,2025-12-04,Electronics,North,Credit Card,8,1314.43,0.05,9989.67
+TXN-1947,2025-07-02,Home & Garden,North,Debit Card,7,164.58,0.05,1094.46
+TXN-1948,2025-03-30,Home & Garden,West,PayPal,4,98.22,0.1,353.59
+TXN-1949,2025-01-30,Electronics,South,Debit Card,4,662.2,0.1,2383.92
+TXN-1950,2025-12-28,Books,East,PayPal,2,24.8,0.05,47.12
+TXN-1951,2025-05-16,Books,East,Apple Pay,1,41.59,0.0,41.59
+TXN-1952,2025-04-28,Electronics,West,PayPal,5,283.29,0.05,1345.63
+TXN-1953,2025-11-17,Sports,North,Credit Card,5,123.65,0.05,587.34
+TXN-1954,2025-03-23,Books,South,Credit Card,3,32.49,0.15,82.85
+TXN-1955,2025-08-12,Electronics,North,Apple Pay,3,484.2,0.2,1162.08
+TXN-1956,2025-11-29,Books,South,Debit Card,7,34.66,0.0,242.62
+TXN-1957,2025-04-11,Home & Garden,West,PayPal,1,286.53,0.15,243.55
+TXN-1958,2025-10-31,Home & Garden,West,Debit Card,2,31.78,0.0,63.56
+TXN-1959,2025-04-14,Sports,South,Debit Card,2,233.71,0.0,467.42
+TXN-1960,2025-07-12,Sports,East,PayPal,4,135.08,0.0,540.32
+TXN-1961,2025-04-03,Electronics,East,PayPal,5,1407.65,0.05,6686.34
+TXN-1962,2025-05-26,Electronics,East,Debit Card,4,512.87,0.0,2051.48
+TXN-1963,2025-03-04,Electronics,East,Apple Pay,7,580.25,0.0,4061.75
+TXN-1964,2025-11-06,Clothing,West,Apple Pay,4,108.58,0.05,412.6
+TXN-1965,2025-07-10,Books,South,Apple Pay,6,12.7,0.2,60.96
+TXN-1966,2025-05-11,Home & Garden,North,PayPal,8,384.59,0.0,3076.72
+TXN-1967,2025-10-06,Clothing,South,Credit Card,4,39.68,0.15,134.91
+TXN-1968,2025-02-05,Home & Garden,East,Debit Card,3,247.6,0.15,631.38
+TXN-1969,2025-07-05,Books,South,Debit Card,1,27.75,0.05,26.36
+TXN-1970,2025-03-28,Sports,South,Credit Card,1,70.67,0.2,56.54
+TXN-1971,2025-04-11,Sports,South,Credit Card,6,225.5,0.1,1217.7
+TXN-1972,2025-01-08,Home & Garden,North,PayPal,2,58.97,0.1,106.15
+TXN-1973,2025-08-08,Books,West,Credit Card,6,36.2,0.2,173.76
+TXN-1974,2025-12-27,Books,South,Apple Pay,3,39.47,0.05,112.49
+TXN-1975,2025-10-22,Home & Garden,South,Apple Pay,7,100.67,0.15,598.99
+TXN-1976,2025-12-17,Electronics,South,Debit Card,8,511.86,0.0,4094.88
+TXN-1977,2025-12-29,Sports,West,PayPal,3,109.76,0.15,279.89
+TXN-1978,2025-11-06,Electronics,South,Debit Card,6,829.51,0.05,4728.21
+TXN-1979,2025-04-26,Books,North,Debit Card,8,15.54,0.0,124.32
+TXN-1980,2025-03-26,Electronics,North,Credit Card,2,448.79,0.2,718.06
+TXN-1981,2025-11-21,Home & Garden,East,Debit Card,1,345.15,0.0,345.15
+TXN-1982,2025-12-07,Books,South,Debit Card,5,11.13,0.1,50.09
+TXN-1983,2025-06-02,Books,East,Debit Card,8,41.32,0.1,297.5
+TXN-1984,2025-04-21,Clothing,West,Debit Card,6,20.87,0.05,118.96
+TXN-1985,2025-06-12,Electronics,East,Debit Card,1,1033.01,0.1,929.71
+TXN-1986,2025-03-02,Home & Garden,West,Credit Card,5,234.11,0.2,936.44
+TXN-1987,2025-04-03,Sports,South,PayPal,3,232.12,0.1,626.72
+TXN-1988,2025-03-24,Home & Garden,East,PayPal,2,313.25,0.0,626.5
+TXN-1989,2025-01-06,Electronics,North,Apple Pay,3,1363.73,0.1,3682.07
+TXN-1990,2025-01-13,Electronics,South,Apple Pay,5,344.28,0.1,1549.26
+TXN-1991,2025-06-23,Home & Garden,East,PayPal,3,208.24,0.1,562.25
+TXN-1992,2025-05-14,Sports,East,Credit Card,8,71.93,0.15,489.12
+TXN-1993,2025-02-04,Clothing,West,Debit Card,7,99.16,0.05,659.41
+TXN-1994,2025-03-23,Books,East,Debit Card,5,26.74,0.1,120.33
+TXN-1995,2025-05-12,Sports,North,Debit Card,6,72.24,0.05,411.77
+TXN-1996,2025-12-08,Clothing,East,Credit Card,6,65.83,0.1,355.48
+TXN-1997,2025-06-12,Electronics,North,PayPal,7,346.75,0.0,2427.25
+TXN-1998,2025-01-31,Sports,East,Credit Card,6,209.79,0.0,1258.74
+TXN-1999,2025-07-11,Home & Garden,East,Apple Pay,5,278.95,0.15,1185.54

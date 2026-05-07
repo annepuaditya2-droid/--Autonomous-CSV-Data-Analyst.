@@ -1,0 +1,13 @@
+# Python junk
+.venv/
+__pycache__/
+*.pyc
+static/chart.png
+
+# Secrets
+.env
+
+# Node/Next.js junk
+frontend/node_modules/
+frontend/.next/
+.DS_Store
