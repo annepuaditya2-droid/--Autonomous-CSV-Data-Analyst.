@@ -12,6 +12,9 @@ from pydantic import BaseModel
 # LangChain & Google AI Imports
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_experimental.agents.agent_toolkits import create_pandas_dataframe_agent
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # 1. Setup Directories
 if not os.path.exists("static"):
@@ -32,8 +35,7 @@ app.add_middleware(
 app.mount("/static", StaticFiles(directory="static"), name="static")
 
 # 4. AI Setup
-os.environ["GOOGLE_API_KEY"] = "your api"
-llm = ChatGoogleGenerativeAI(model="gemini-2.0-flash", temperature=0)
+llm = ChatGoogleGenerativeAI(model="gemini-2.5-flash", temperature=0)
 current_df = None
 agent_executor = None
 
